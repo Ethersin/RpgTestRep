@@ -1,0 +1,1097 @@
+﻿Log file open, 03/18/17 15:45:59
+LogInit:Display: Running engine for game: SinglePlayerRPG
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(895153076) SRandInit(895153076).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.076336
+LogPluginManager: Loaded Plugin Paper2D, From E:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From E:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From E:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From E:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From E:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: E:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.18-15.45.59:831][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.18-15.45.59:831][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.18-15.45.59:842][  0]LogInit: Computer: RICH-PC
+[2017.03.18-15.45.59:842][  0]LogInit: User: Rich
+[2017.03.18-15.45.59:842][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.18-15.45.59:842][  0]LogInit: High frequency timer resolution =3.312639 MHz
+[2017.03.18-15.45.59:842][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.03.18-15.45.59:842][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.18-15.45.59:842][  0]LogMemory: Process Physical Memory: 257.83 MB used, 257.83 MB peak
+[2017.03.18-15.45.59:842][  0]LogMemory: Process Virtual Memory: 259.94 MB used, 259.94 MB peak
+[2017.03.18-15.45.59:842][  0]LogMemory: Physical Memory: 4910.72 MB used, 16271.22 MB total
+[2017.03.18-15.45.59:842][  0]LogMemory: Virtual Memory: 624.20 MB used, 134217728.00 MB total
+[2017.03.18-15.45.59:874][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.03.18-15.46.00:521][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.18-15.46.00:552][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.03.18-15.46.00:552][  0]LogD3D11RHI:       4059/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.18-15.46.00:559][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.03.18-15.46.00:559][  0]LogD3D11RHI:       112/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.18-15.46.00:561][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.18-15.46.00:561][  0]LogD3D11RHI:       0/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.18-15.46.00:561][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.18-15.46.00:565][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.18-15.46.00:565][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.18-15.46.00:565][  0]LogWindows: EnumDisplayDevices:
+[2017.03.18-15.46.00:565][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.03.18-15.46.00:565][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.03.18-15.46.00:566][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.03.18-15.46.00:566][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.03.18-15.46.00:566][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.03.18-15.46.00:566][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.03.18-15.46.00:566][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.03.18-15.46.00:566][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.03.18-15.46.00:566][  0]LogD3D11RHI:   Driver Version: 378.78 (internal:21.21.13.7878, unified:378.78)
+[2017.03.18-15.46.00:566][  0]LogD3D11RHI:      Driver Date: 2-23-2017
+[2017.03.18-15.46.00:566][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.18-15.46.00:579][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.18-15.46.00:594][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.03.18-15.46.00:594][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../UDK Projects/SinglePlayerRPG/Intermediate/Shaders/WorkingDirectory/10844/).
+[2017.03.18-15.46.00:594][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rich/AppData/Local/Temp/UnrealShaderWorkingDir/07A44A65419971789A6DDDAAF8386516/'.
+[2017.03.18-15.46.00:594][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.18-15.46.01:488][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.18-15.46.01:498][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.18-15.46.01:506][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.18-15.46.01:514][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.18-15.46.01:522][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.18-15.46.01:530][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.18-15.46.01:537][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.18-15.46.01:543][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.18-15.46.01:550][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.18-15.46.01:556][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.18-15.46.01:564][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.18-15.46.01:577][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.18-15.46.01:577][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.18-15.46.01:578][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.18-15.46.01:598][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.18-15.46.01:604][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.18-15.46.01:610][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.18-15.46.01:616][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.18-15.46.01:623][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.18-15.46.01:630][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.18-15.46.01:630][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.18-15.46.01:725][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.18-15.46.01:783][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/Rich/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.18-15.46.01:783][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Rich/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.03.18-15.46.01:783][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UDK Projects/SinglePlayerRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.18-15.46.01:783][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.18-15.46.01:783][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UDK Projects/SinglePlayerRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.18-15.46.01:783][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.18-15.46.01:800][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.18-15.46.01:811][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rich/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.18-15.46.02:016][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.18-15.46.02:018][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.18-15.46.02:113][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.03.18-15.46.02:113][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.18-15.46.02:113][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.03.18-15.46.02:183][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.18-15.46.02:479][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: singleplayerrpg, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1021367804
+[2017.03.18-15.46.02:521][  0]LogAssetRegistry: FAssetRegistry took 0.0216 seconds to start up
+[2017.03.18-15.46.02:552][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.027873 seconds
+[2017.03.18-15.46.02:556][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.03.18-15.46.02:556][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2017.03.18-15.46.02:556][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.18-15.46.02:567][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.18-15.46.02:780][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.18-15.46.02:780][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.18-15.46.03:504][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.18-15.46.03:528][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.18-15.46.03:775][  0]SourceControl: Info Source control is disabled
+[2017.03.18-15.46.03:775][  0]SourceControl: Info Source control is disabled
+[2017.03.18-15.46.03:789][  0]SourceControl: Info Source control is disabled
+[2017.03.18-15.46.03:802][  0]SourceControl: Info Source control is disabled
+[2017.03.18-15.46.04:181][  0]LogEngine: Initializing Engine...
+[2017.03.18-15.46.04:182][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.18-15.46.04:306][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.18-15.46.04:314][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.18-15.46.04:325][  0]LogInit: FAudioDevice initialized.
+[2017.03.18-15.46.04:359][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Rich/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.18-15.46.04:367][  0]LogInit: Texture streaming: Enabled
+[2017.03.18-15.46.04:395][  0]LogInit: Transaction tracking system initialized
+[2017.03.18-15.46.04:422][  0]BlueprintLog: New page: Editor Load
+[2017.03.18-15.46.04:509][  0]LocalizationService: Info Localization service is disabled
+[2017.03.18-15.46.04:787][  0]LogConsoleResponse:Display: 
+[2017.03.18-15.46.04:891][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.18-15.46.04:891][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.18-15.46.05:007][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Content/' took 0.01s
+[2017.03.18-15.46.05:098][  0]SourceControl: Info Source control is disabled
+[2017.03.18-15.46.05:098][  0]Cmd: MAP LOAD FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.18-15.46.05:098][  0]LightingResults: New page: Lighting Build
+[2017.03.18-15.46.05:101][  0]MapCheck: New page: Map Check
+[2017.03.18-15.46.05:101][  0]LightingResults: New page: Lighting Build
+[2017.03.18-15.46.05:419][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning 'Item' is already a 'Main UI', you don't need  K2Node_DynamicCast_3 .
+[2017.03.18-15.46.05:420][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning [0006.78] Compile of MainMenuBtn successful, but with 1 Warning(s) [in 2 ms] (/Game/UI/MainMenuBtn.MainMenuBtn)
+[2017.03.18-15.46.05:420][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning [0006.78] Compile of MainMenuBtn successful, but with 2 Warning(s) [in 0 ms] (/Game/UI/MainMenuBtn.MainMenuBtn)
+[2017.03.18-15.46.05:420][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning [0006.78] Compile of MainMenuBtn successful, but with 3 Warning(s) [in 0 ms] (/Game/UI/MainMenuBtn.MainMenuBtn)
+[2017.03.18-15.46.05:673][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.18-15.46.05:673][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.18-15.46.05:905][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.18-15.46.05:905][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.18-15.46.06:037][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning 'Item' is already a 'Main UI', you don't need  K2Node_DynamicCast_3 .
+[2017.03.18-15.46.06:038][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning [0007.40] Compile of MainMenuBtn successful, but with 1 Warning(s) [in 2 ms] (/Game/UI/MainMenuBtn.MainMenuBtn)
+[2017.03.18-15.46.06:038][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning [0007.40] Compile of MainMenuBtn successful, but with 2 Warning(s) [in 0 ms] (/Game/UI/MainMenuBtn.MainMenuBtn)
+[2017.03.18-15.46.06:040][  0]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning [0007.40] Compile of MainMenuBtn successful, but with 3 Warning(s) [in 2 ms] (/Game/UI/MainMenuBtn.MainMenuBtn)
+[2017.03.18-15.46.06:390][  0]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.18-15.46.06:392][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.18-15.46.06:393][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.18-15.46.06:470][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 77.646ms to complete.
+[2017.03.18-15.46.06:470][  0]LogFileHelpers: Loading map 'MainMapTest' took 1.372
+[2017.03.18-15.46.06:592][  0]LogCollectionManager: Loaded 0 collections in 0.002154 seconds
+[2017.03.18-15.46.06:632][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Saved/Collections/' took 0.01s
+[2017.03.18-15.46.06:632][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Content/Developers/Rich/Collections/' took 0.01s
+[2017.03.18-15.46.06:632][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Content/Collections/' took 0.01s
+[2017.03.18-15.46.06:632][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.18-15.46.06:640][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2141 classes and 415 folders.
+[2017.03.18-15.46.06:644][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.18-15.46.06:644][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.18-15.46.06:645][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 12 classes and 0 folders.
+[2017.03.18-15.46.06:651][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.18-15.46.06:707][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.18-15.46.06:713][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.03.18-15.46.06:762][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.18-15.46.06:769][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.18-15.46.06:798][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.03.18-15.46.06:798][  0]LogLoad: (Engine Initialization) Total time: 8.16 seconds
+[2017.03.18-15.46.06:798][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.80 seconds
+[2017.03.18-15.46.06:798][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.18-15.46.06:798][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.18-15.46.06:807][  0]LogOcInput: OculusInput pre-init called
+[2017.03.18-15.46.06:823][  0]LogAssetRegistry: Asset discovery search completed in 4.3231 seconds
+[2017.03.18-15.46.06:823][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.18-15.46.06:823][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2017.03.18-15.46.06:824][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.03.18-15.46.06:944][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2017.03.18-15.46.09:938][274]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 112 classes and 0 folders.
+[2017.03.18-15.48.29:985][347]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-15.48.31:028][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-15.48.31:163][443]LogSavePackage: Save=23.22ms
+[2017.03.18-15.48.31:163][443]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup8740440048C8AEC0AE6F8C89F42D30B8.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-15.48.31:166][443]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-15.48.35:378][941]BlueprintLog: New page: Compile MainMenuBtn
+[2017.03.18-15.48.35:386][941]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning 'Item' is already a 'Main UI', you don't need  K2Node_DynamicCast_3 .
+[2017.03.18-15.48.35:482][941]BlueprintEditorCompileResults:Warning: Warning 'Item' is already a 'Main UI', you don't need  K2Node_DynamicCast_3 .
+[2017.03.18-15.48.35:482][941]LogBlueprint:Warning: [Compiler MainMenuBtn] Warning [0156.84] Compile of MainMenuBtn successful, but with 1 Warning(s) [in 104 ms] (/Game/UI/MainMenuBtn.MainMenuBtn)
+[2017.03.18-15.48.48:749][506]BlueprintLog: New page: Compile MainMenuBtn
+[2017.03.18-15.48.49:278][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenuBtn" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainMenuBtn.uasset" SILENT=true
+[2017.03.18-15.48.49:402][551]LogSavePackage: Save=12.01ms
+[2017.03.18-15.48.49:402][551]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMenuBtn5F6164DB4E0D990CE3F68D9D5A83DE66.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainMenuBtn.uasset'
+[2017.03.18-15.48.49:405][551]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainMenuBtn.uasset
+[2017.03.18-15.49.40:417][614]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-15.49.41:394][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-15.49.41:537][710]LogSavePackage: Save=24.58ms
+[2017.03.18-15.49.41:537][710]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup933C4D324C13A789AB6ABD8B9522DE62.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-15.49.41:539][710]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-15.56.06:752][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMapTest' took 0.020
+[2017.03.18-15.56.06:754][487]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TeamSetup] ([1] browsable assets)...
+[2017.03.18-15.56.06:754][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TeamSetup]
+[2017.03.18-15.56.06:754][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/TeamSetup_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.03.18-15.56.06:887][487]LogSavePackage: Save=23.25ms
+[2017.03.18-15.56.06:887][487]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup_Auto1FBCA89794073208FDB8F79A585727E3C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/TeamSetup_Auto1.uasset'
+[2017.03.18-15.56.06:889][487]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/TeamSetup_Auto1.uasset
+[2017.03.18-15.56.06:889][487]LogFileHelpers: Auto-saving content packages took 0.136
+[2017.03.18-16.01.36:190][847]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.01.36:800][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.01.37:168][900]LogSavePackage: Save=242.61ms
+[2017.03.18-16.01.37:168][900]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetupA3816E8042B4E279264469B6174A28E4.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.01.37:172][900]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.01.41:146][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-16.01.41:148][369]PIE: New page: PIE session: MainMapTest (18 Mar 2017 16:01:41)
+[2017.03.18-16.01.41:148][369]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.18-16.01.41:149][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000842s)
+[2017.03.18-16.01.41:149][369]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.18-16.01.41:149][369]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2017.03.18-16.01.41:150][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001873s)
+[2017.03.18-16.01.41:168][369]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.18-16.01.41:176][369]LogInit: FAudioDevice initialized.
+[2017.03.18-16.01.41:224][369]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.18-16.01.41:227][369]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.18-16.01.41
+[2017.03.18-16.01.41:228][369]LogWorld: Bringing up level for play took: 0.002941
+[2017.03.18-16.01.41:229][369]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.18-16.01.41:230][369]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.18-16.01.41:235][369]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.03.18-16.01.41:235][369]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.18-16.01.41:235][369]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.18-16.01.41:235][369]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.18-16.01.41:237][369]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.18-16.01.41:237][369]LogScriptCore:Warning: 
+[2017.03.18-16.01.41:248][369]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.18-16.01.41:251][369]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 1.052
+[2017.03.18-16.01.43:357][614]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array ListofStages of length 0!
+[2017.03.18-16.01.43:357][614]LogScriptCore:Warning: 
+[2017.03.18-16.01.43:358][614]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array StageList_11_17877C194ECD5F9428A48EBE7A7752F1 of length 0!
+[2017.03.18-16.01.43:358][614]LogScriptCore:Warning: 
+[2017.03.18-16.02.53:782][779]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.02.55:632][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.02.55:766][978]LogSavePackage: Save=25.53ms
+[2017.03.18-16.02.55:766][978]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup5F1E302D4E570D33E21DB98424EDF0E0.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.02.55:769][978]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.03.34:909][483]LogEditorTransaction: Undo Edit Vertical Alignment
+[2017.03.18-16.03.37:990][812]LogEditorTransaction: Undo Move Widget
+[2017.03.18-16.06.25:041][819]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.06.25:613][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.06.25:748][863]LogSavePackage: Save=25.92ms
+[2017.03.18-16.06.25:748][863]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup0BFC8D994095E5962471D682C9B18310.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.06.25:751][863]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.06.50:552][722]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.06.51:128][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.06.51:271][753]LogSavePackage: Save=26.63ms
+[2017.03.18-16.06.51:271][753]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetupA3E0C9364315B5DDD0A98EB49AFF0EEC.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.06.51:275][753]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.07.21:802][265]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.07.22:344][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.07.22:479][299]LogSavePackage: Save=24.89ms
+[2017.03.18-16.07.22:479][299]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetupBE130A1A4DB5EB1F669C5AA79864F7C4.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.07.22:483][299]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.08.34:239][760]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.08.34:843][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.08.34:989][810]LogSavePackage: Save=27.16ms
+[2017.03.18-16.08.34:989][810]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetupCD4A6E26441132EE3DCFDAB4C5545B98.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.08.34:992][810]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.09.17:877][871]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.09.18:526][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.09.18:666][924]LogSavePackage: Save=26.29ms
+[2017.03.18-16.09.18:666][924]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup8E0A9B9D4CC305B35C5DA2BDDBD83F6D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.09.18:669][924]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.09.26:759][870]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.09.27:309][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.09.27:446][912]LogSavePackage: Save=25.68ms
+[2017.03.18-16.09.27:446][912]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup1D8B16A143C87EFA1A14D1ABDE772F86.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.09.27:449][912]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.09.41:030][426]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.09.41:659][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.09.41:805][473]LogSavePackage: Save=28.21ms
+[2017.03.18-16.09.41:805][473]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup9BC53B1A4238FFCC90B849A6C1A49805.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.09.41:809][473]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.10.11:074][894]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.10.11:592][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.10.11:734][934]LogSavePackage: Save=28.84ms
+[2017.03.18-16.10.11:734][934]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup7C027B2448B2D7608B893A99D6717562.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.10.11:737][934]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.10.12:415][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-16.10.12:415][  8]PIE: New page: PIE session: MainMapTest (18 Mar 2017 16:10:12)
+[2017.03.18-16.10.12:415][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.18-16.10.12:416][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000847s)
+[2017.03.18-16.10.12:416][  8]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.18-16.10.12:417][  8]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2017.03.18-16.10.12:417][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001973s)
+[2017.03.18-16.10.12:436][  8]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.18-16.10.12:445][  8]LogInit: FAudioDevice initialized.
+[2017.03.18-16.10.12:490][  8]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.18-16.10.12:494][  8]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.18-16.10.12
+[2017.03.18-16.10.12:495][  8]LogWorld: Bringing up level for play took: 0.003258
+[2017.03.18-16.10.12:495][  8]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.18-16.10.12:496][  8]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.18-16.10.12:496][  8]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.18-16.10.12:496][  8]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.18-16.10.12:496][  8]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.18-16.10.12:497][  8]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.18-16.10.12:497][  8]LogScriptCore:Warning: 
+[2017.03.18-16.10.12:508][  8]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.18-16.10.12:512][  8]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.313
+[2017.03.18-16.10.14:343][220]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array ListofStages of length 0!
+[2017.03.18-16.10.14:343][220]LogScriptCore:Warning: 
+[2017.03.18-16.10.14:345][220]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array StageList_11_17877C194ECD5F9428A48EBE7A7752F1 of length 0!
+[2017.03.18-16.10.14:345][220]LogScriptCore:Warning: 
+[2017.03.18-16.10.28:228][865]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.10.40:373][298]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_StageList_1' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_StageList_1' is empty
+[2017.03.18-16.10.43:027][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/EnemyList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset" SILENT=true
+[2017.03.18-16.10.43:149][610]LogSavePackage: Save=4.23ms
+[2017.03.18-16.10.43:149][610]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/EnemyListBC49D991416CB4CD52C721B078136670.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset'
+[2017.03.18-16.10.43:153][610]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset
+[2017.03.18-16.10.46:459][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/EnemyList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset" SILENT=true
+[2017.03.18-16.10.46:574][999]LogSavePackage: Save=4.86ms
+[2017.03.18-16.10.46:574][999]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/EnemyList7E9A051E4E1CD1D9384328B7322DA337.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset'
+[2017.03.18-16.10.46:577][999]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset
+[2017.03.18-16.11.12:685][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMapTest' took 0.019
+[2017.03.18-16.11.12:687][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/StageSelect] ([1] browsable assets)...
+[2017.03.18-16.11.12:687][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageSelect]
+[2017.03.18-16.11.12:687][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageSelect" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/StageSelect_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.03.18-16.11.12:827][107]LogSavePackage: Save=27.55ms
+[2017.03.18-16.11.12:827][107]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageSelect_Auto2F3A8142D430E82184B12FEB9AA0B26E3.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/StageSelect_Auto2.uasset'
+[2017.03.18-16.11.12:829][107]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/StageSelect_Auto2.uasset
+[2017.03.18-16.11.12:830][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TeamSetup] ([1] browsable assets)...
+[2017.03.18-16.11.12:830][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TeamSetup]
+[2017.03.18-16.11.12:830][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/TeamSetup_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.03.18-16.11.12:970][107]LogSavePackage: Save=29.84ms
+[2017.03.18-16.11.12:970][107]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup_Auto2F47BFC91469A9ADA2F42559BFFB4708D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/TeamSetup_Auto2.uasset'
+[2017.03.18-16.11.12:971][107]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/UI/TeamSetup_Auto2.uasset
+[2017.03.18-16.11.12:973][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Structs/StageList] ([1] browsable assets)...
+[2017.03.18-16.11.12:973][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Structs/StageList]
+[2017.03.18-16.11.13:091][107]LogSavePackage: Save=5.08ms
+[2017.03.18-16.11.13:091][107]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageList_Auto260324FC94BE9EF7CB1ECF5B945554B1A.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/Characters/Structs/StageList_Auto2.uasset'
+[2017.03.18-16.11.13:092][107]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Saved/Autosaves/Game/Characters/Structs/StageList_Auto2.uasset
+[2017.03.18-16.11.13:092][107]LogFileHelpers: Auto-saving content packages took 0.406
+[2017.03.18-16.11.48:757][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageSelect" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset" SILENT=true
+[2017.03.18-16.11.48:901][328]LogSavePackage: Save=28.35ms
+[2017.03.18-16.11.48:901][328]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageSelect2FD7FCD247E104BFFA1B91A4FE489B87.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset'
+[2017.03.18-16.11.48:906][328]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset
+[2017.03.18-16.11.48:909][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.11.49:052][328]LogSavePackage: Save=29.31ms
+[2017.03.18-16.11.49:052][328]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup8A14CE904512C80C0CD7D89991F07C4D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.11.49:057][328]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.11.49:061][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/StageList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset" SILENT=true
+[2017.03.18-16.11.49:176][328]LogSavePackage: Save=3.85ms
+[2017.03.18-16.11.49:176][328]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageList1B4F830C4836915F76325ABF9F0C3368.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset'
+[2017.03.18-16.11.49:179][328]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset
+[2017.03.18-16.12.20:006][989]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.18-16.12.20:009][989]LogBlueprint:Error: [Compiler MainMenuBP] Error Invalid property 'StageList' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.20:009][989]LogBlueprint:Error: [Compiler MainMenuBP] Error The variable StageList declared in  MainMenuBP  has an invalid type Stage List Structure
+[2017.03.18-16.12.20:174][989]BlueprintEditorCompileResults:Error: Error Invalid property 'StageList' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.20:174][989]BlueprintEditorCompileResults:Error: Error The variable StageList declared in  MainMenuBP  has an invalid type Stage List Structure
+[2017.03.18-16.12.20:174][989]LogBlueprint:Warning: [Compiler MainMenuBP] Warning [1581.54] Compile of MainMenuBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/MainMenu/MainMenuBP.MainMenuBP)
+[2017.03.18-16.12.21:915][197]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.12.32:239][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/StageList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset" SILENT=true
+[2017.03.18-16.12.32:353][422]LogSavePackage: Save=4.09ms
+[2017.03.18-16.12.32:353][422]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageListC109C5244F05FB1130FC2D97EB1551BE.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset'
+[2017.03.18-16.12.32:355][422]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset
+[2017.03.18-16.12.35:790][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuBP" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset" SILENT=true
+[2017.03.18-16.12.35:915][828]LogSavePackage: Save=8.45ms
+[2017.03.18-16.12.35:915][828]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMenuBP89A932694454AE4DA7146C845BF4FE7E.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset'
+[2017.03.18-16.12.35:919][828]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset
+[2017.03.18-16.12.36:690][920]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.18-16.12.36:693][920]LogBlueprint:Error: [Compiler MainMenuBP] Error Invalid property 'StageList' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.36:693][920]LogBlueprint:Error: [Compiler MainMenuBP] Error The variable StageList declared in  MainMenuBP  has an invalid type Stage List Structure
+[2017.03.18-16.12.36:858][920]BlueprintEditorCompileResults:Error: Error Invalid property 'StageList' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.36:858][920]BlueprintEditorCompileResults:Error: Error The variable StageList declared in  MainMenuBP  has an invalid type Stage List Structure
+[2017.03.18-16.12.36:858][920]LogBlueprint:Warning: [Compiler MainMenuBP] Warning [1598.22] Compile of MainMenuBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 167 ms] (/Game/MainMenu/MainMenuBP.MainMenuBP)
+[2017.03.18-16.12.49:707][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/StageList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset" SILENT=true
+[2017.03.18-16.12.49:823][446]LogSavePackage: Save=3.89ms
+[2017.03.18-16.12.49:823][446]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageList7C4618C14FB016EB2A7B5DAAE2FA1E0F.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset'
+[2017.03.18-16.12.49:825][446]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset
+[2017.03.18-16.12.52:075][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-16.12.52:230][712]LogSavePackage: Save=17.17ms
+[2017.03.18-16.12.52:231][712]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest985A3B404F680B15BED655A8353F4F2F.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.18-16.12.52:232][712]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.18-16.12.56:100][153]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.12.56:112][153]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:112][153]LogBlueprint:Error: [Compiler TeamSetup] Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.12.56:112][153]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:112][153]LogBlueprint:Error: [Compiler TeamSetup] Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.12.56:122][153]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:122][153]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.12.56:122][153]LogBlueprint:Error: [Compiler TeamSetup] Error The property associated with  StageIn  could not be found
+[2017.03.18-16.12.56:122][153]LogBlueprint:Error: [Compiler TeamSetup] Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.12.56:122][153]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:122][153]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.12.56:137][153]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:137][153]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.12.56:146][153]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:146][153]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error The property associated with  ListofStages  could not be found
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_Array_Length_TargetArray' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_Array_Length_TargetArray from  <None>  due to a bad or unknown type (Array of Stage List Structures)
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_Array_Get_TargetArray' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_Array_Get_TargetArray from  <None>  due to a bad or unknown type (Array of Stage List Structures)
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_Array_Get_Item' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:147][153]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_Array_Get_Item from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error The property associated with  StageIn  could not be found
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.12.56:466][153]BlueprintEditorCompileResults:Error: Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.12.56:466][153]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1617.83] Compile of TeamSetup failed. 10 Fatal Issue(s) 0 Warning(s) [in 365 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.12.57:822][309]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.14.19:549][910]BlueprintLog: New page: Compile StageSelect
+[2017.03.18-16.14.19:566][910]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:566][910]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.14.19:575][910]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:575][910]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.19:576][910]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:576][910]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.19:576][910]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'K2Node_MakeArray_Array' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:576][910]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property K2Node_MakeArray_Array from  K2Node_MacroInstance_26  due to a bad or unknown type (Array of Stage List Structures)
+[2017.03.18-16.14.19:576][910]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_Array_Get_Item' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:576][910]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_Array_Get_Item from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_MakeArray_Array' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_MakeArray_Array from  K2Node_MacroInstance_26  due to a bad or unknown type (Array of Stage List Structures)
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_Array_Get_Item' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.19:759][910]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_Array_Get_Item from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.19:759][910]LogBlueprint:Warning: [Compiler StageSelect] Warning [1701.12] Compile of StageSelect failed. 10 Fatal Issue(s) 0 Warning(s) [in 210 ms] (/Game/UI/StageSelect.StageSelect)
+[2017.03.18-16.14.45:846][958]BlueprintLog: New page: Compile StageSelect
+[2017.03.18-16.14.45:861][958]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.45:861][958]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.14.45:870][958]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.45:870][958]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.45:871][958]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.45:871][958]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.45:871][958]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'K2Node_MakeArray_Array' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.45:871][958]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property K2Node_MakeArray_Array from  K2Node_MacroInstance_26  due to a bad or unknown type (Array of Stage List Structures)
+[2017.03.18-16.14.45:871][958]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_Array_Get_Item' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.45:871][958]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_Array_Get_Item from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_MakeArray_Array' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_MakeArray_Array from  K2Node_MacroInstance_26  due to a bad or unknown type (Array of Stage List Structures)
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_Array_Get_Item' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.14.46:049][958]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_Array_Get_Item from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.14.46:049][958]LogBlueprint:Warning: [Compiler StageSelect] Warning [1727.41] Compile of StageSelect failed. 10 Fatal Issue(s) 0 Warning(s) [in 203 ms] (/Game/UI/StageSelect.StageSelect)
+[2017.03.18-16.14.48:296][218]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.14.54:622][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageSelect" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset" SILENT=true
+[2017.03.18-16.14.54:774][960]LogSavePackage: Save=30.36ms
+[2017.03.18-16.14.54:774][960]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageSelect33CDA04E4031772609C9ADB8A915AF0D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset'
+[2017.03.18-16.14.54:777][960]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset
+[2017.03.18-16.14.54:781][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.14.54:933][960]LogSavePackage: Save=28.67ms
+[2017.03.18-16.14.54:934][960]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup6CD57BD74E965BBA207C6BAE132E7594.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.14.54:937][960]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.14.54:940][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/EnemyList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset" SILENT=true
+[2017.03.18-16.14.55:059][960]LogSavePackage: Save=4.22ms
+[2017.03.18-16.14.55:059][960]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/EnemyList1C79254A42738483A927199B3C91251C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset'
+[2017.03.18-16.14.55:062][960]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset
+[2017.03.18-16.15.03:212][919]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.15.03:226][919]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:226][919]LogBlueprint:Error: [Compiler TeamSetup] Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.03:226][919]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:226][919]LogBlueprint:Error: [Compiler TeamSetup] Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.03:235][919]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:235][919]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.03:235][919]LogBlueprint:Error: [Compiler TeamSetup] Error The property associated with  StageIn  could not be found
+[2017.03.18-16.15.03:235][919]LogBlueprint:Error: [Compiler TeamSetup] Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.15.03:235][919]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:235][919]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error The property associated with  StageIn  could not be found
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.03:404][919]BlueprintEditorCompileResults:Error: Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.03:404][919]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1744.77] Compile of TeamSetup failed. 10 Fatal Issue(s) 0 Warning(s) [in 191 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.15.03:905][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.15.04:043][972]LogSavePackage: Save=28.87ms
+[2017.03.18-16.15.04:043][972]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetupDF21D8F743CACBBCDABB5C8770AFD339.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.15.04:046][972]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.15.19:949][830]BlueprintLog: New page: Compile MyPlayer
+[2017.03.18-16.15.20:787][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-16.15.20:938][889]LogSavePackage: Save=17.56ms
+[2017.03.18-16.15.20:938][889]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest2C6633444B309C239B6165A87F4F890D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.18-16.15.20:941][889]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.18-16.15.20:987][889]LogFileHelpers: Saving map 'MainMapTest' took 0.283
+[2017.03.18-16.15.34:729][478]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.15.34:741][478]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:741][478]LogBlueprint:Error: [Compiler TeamSetup] Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.34:741][478]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:742][478]LogBlueprint:Error: [Compiler TeamSetup] Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.34:752][478]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:752][478]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.34:752][478]LogBlueprint:Error: [Compiler TeamSetup] Error The property associated with  StageIn  could not be found
+[2017.03.18-16.15.34:752][478]LogBlueprint:Error: [Compiler TeamSetup] Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.15.34:752][478]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:752][478]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error The property associated with  StageIn  could not be found
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.34:926][478]BlueprintEditorCompileResults:Error: Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.34:926][478]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1776.29] Compile of TeamSetup failed. 10 Fatal Issue(s) 0 Warning(s) [in 197 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.15.35:521][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageSelect" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset" SILENT=true
+[2017.03.18-16.15.35:674][537]LogSavePackage: Save=29.83ms
+[2017.03.18-16.15.35:674][537]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageSelect072D94D74B3B06FF8B5F3DB0335A7373.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset'
+[2017.03.18-16.15.35:677][537]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset
+[2017.03.18-16.15.35:680][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.15.35:827][537]LogSavePackage: Save=29.23ms
+[2017.03.18-16.15.35:827][537]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup48B1FD7D48FE6613E1E20D841F8A0AED.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.15.35:829][537]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.15.48:999][ 78]BlueprintLog: New page: Compile StageSelect
+[2017.03.18-16.15.49:015][ 78]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.49:015][ 78]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.15.49:024][ 78]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.49:024][ 78]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.49:024][ 78]LogBlueprint:Error: [Compiler StageSelect] Error The type of  Array  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:025][ 78]LogBlueprint:Error: [Compiler StageSelect] Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:025][ 78]LogBlueprint:Error: [Compiler StageSelect] Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:025][ 78]LogBlueprint:Error: [Compiler StageSelect] Error The type of  Item  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:025][ 78]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.49:025][ 78]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error The type of  Array  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error The type of  Item  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.15.49:205][ 78]BlueprintEditorCompileResults:Error: Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.15.49:205][ 78]LogBlueprint:Warning: [Compiler StageSelect] Warning [1790.57] Compile of StageSelect failed. 10 Fatal Issue(s) 0 Warning(s) [in 205 ms] (/Game/UI/StageSelect.StageSelect)
+[2017.03.18-16.15.49:804][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageSelect" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset" SILENT=true
+[2017.03.18-16.15.49:946][143]LogSavePackage: Save=28.93ms
+[2017.03.18-16.15.49:946][143]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageSelectD7F1430343028A70706E409A3DC2A1F6.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset'
+[2017.03.18-16.15.49:949][143]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset
+[2017.03.18-16.15.49:953][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.15.50:094][143]LogSavePackage: Save=27.67ms
+[2017.03.18-16.15.50:094][143]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup213CBC4548F29A868ED61A9A52AEADE5.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.15.50:097][143]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.15.50:830][225]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.15.51:172][266]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.15.51:297][281]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.16.00:994][436]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.16.28:803][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/StageList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset" SILENT=true
+[2017.03.18-16.16.28:915][730]LogSavePackage: Save=3.99ms
+[2017.03.18-16.16.28:915][730]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageListF0C3DD0445E160F21EBFBB9F153F05B7.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset'
+[2017.03.18-16.16.28:916][730]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/StageList.uasset
+[2017.03.18-16.16.31:143][989]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.18-16.16.31:143][989]LogPlayLevel: [PlayLevel] Compiling TeamSetup before play...
+[2017.03.18-16.16.31:155][989]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.31:155][989]LogBlueprint:Error: [Compiler TeamSetup] Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.16.31:155][989]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.31:155][989]LogBlueprint:Error: [Compiler TeamSetup] Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.16.31:165][989]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.31:165][989]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.31:166][989]LogBlueprint:Error: [Compiler TeamSetup] Error The property associated with  StageIn  could not be found
+[2017.03.18-16.16.31:166][989]LogBlueprint:Error: [Compiler TeamSetup] Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.16.31:166][989]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.31:166][989]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.31:336][989]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1832.70] Compile of TeamSetup failed. 10 Fatal Issue(s) 0 Warning(s) [in 185 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.16.31:336][989]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1832.70] Compile of TeamSetup failed. 10 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.16.31:336][989]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1832.70] Compile of TeamSetup failed. 10 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.16.31:336][989]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1832.70] Compile of TeamSetup failed. 10 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.16.31:340][989]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1832.70] Compile of TeamSetup failed. 10 Fatal Issue(s) 4 Warning(s) [in 3 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.16.31:340][989]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1832.70] Compile of TeamSetup failed. 10 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.16.31:362][989]LogPlayLevel: PlayLevel: Blueprint regeneration took 218 ms (1 blueprints)
+[2017.03.18-16.16.31:362][989]BlueprintLog: Info Blueprint TeamSetup failed to compile
+[2017.03.18-16.16.36:922][531]BlueprintLog: New page: Compile StageSelect
+[2017.03.18-16.16.36:938][531]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.36:938][531]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error The type of  Array  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error The type of  Item  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.36:948][531]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.37:128][531]BlueprintEditorCompileResults:Error: Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.37:128][531]BlueprintEditorCompileResults:Error: Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.16.37:128][531]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.37:128][531]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.37:128][531]BlueprintEditorCompileResults:Error: Error The type of  Array  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.37:128][531]BlueprintEditorCompileResults:Error: Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.37:128][531]BlueprintEditorCompileResults:Error: Error The type of  TargetArray  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.37:129][531]BlueprintEditorCompileResults:Error: Error The type of  Item  is undetermined.  Connect something to  K2Node_MacroInstance_26  to imply a specific type.
+[2017.03.18-16.16.37:129][531]BlueprintEditorCompileResults:Error: Error Invalid property 'StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.37:129][531]BlueprintEditorCompileResults:Error: Error Failed to create property StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.37:129][531]LogBlueprint:Warning: [Compiler StageSelect] Warning [1838.49] Compile of StageSelect failed. 10 Fatal Issue(s) 0 Warning(s) [in 206 ms] (/Game/UI/StageSelect.StageSelect)
+[2017.03.18-16.16.39:026][749]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.16.44:486][392]BlueprintLog: New page: Compile StageSelect
+[2017.03.18-16.16.44:501][392]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.44:501][392]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.16.44:508][392]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.44:508][392]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.44:684][392]BlueprintEditorCompileResults:Error: Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.44:684][392]BlueprintEditorCompileResults:Error: Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.16.44:684][392]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.16.44:684][392]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.16.44:684][392]LogBlueprint:Warning: [Compiler StageSelect] Warning [1846.05] Compile of StageSelect failed. 4 Fatal Issue(s) 0 Warning(s) [in 198 ms] (/Game/UI/StageSelect.StageSelect)
+[2017.03.18-16.16.45:286][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageSelect" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset" SILENT=true
+[2017.03.18-16.16.45:428][457]LogSavePackage: Save=27.26ms
+[2017.03.18-16.16.45:428][457]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageSelectDE2804C34EB0C33B742A9EB37A98D449.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset'
+[2017.03.18-16.16.45:431][457]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset
+[2017.03.18-16.16.46:419][573]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.17.04:353][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Structs/EnemyList" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset" SILENT=true
+[2017.03.18-16.17.04:471][704]LogSavePackage: Save=5.69ms
+[2017.03.18-16.17.04:471][704]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/EnemyListE50591DD4376EA9E911C05A0A3230A86.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset'
+[2017.03.18-16.17.04:473][704]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/Structs/EnemyList.uasset
+[2017.03.18-16.17.11:181][506]BlueprintLog: New page: Compile StageSelect
+[2017.03.18-16.17.11:196][506]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.11:196][506]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.17.11:203][506]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.11:204][506]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.11:381][506]BlueprintEditorCompileResults:Error: Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.11:382][506]BlueprintEditorCompileResults:Error: Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.17.11:382][506]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.11:382][506]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.11:382][506]LogBlueprint:Warning: [Compiler StageSelect] Warning [1872.74] Compile of StageSelect failed. 4 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/UI/StageSelect.StageSelect)
+[2017.03.18-16.17.18:042][271]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.18-16.17.18:045][271]LogBlueprint:Error: [Compiler MainMenuBP] Error Invalid property 'StageList' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.18:045][271]LogBlueprint:Error: [Compiler MainMenuBP] Error The variable StageList declared in  MainMenuBP  has an invalid type Stage List Structure
+[2017.03.18-16.17.18:207][271]BlueprintEditorCompileResults:Error: Error Invalid property 'StageList' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.18:207][271]BlueprintEditorCompileResults:Error: Error The variable StageList declared in  MainMenuBP  has an invalid type Stage List Structure
+[2017.03.18-16.17.18:208][271]LogBlueprint:Warning: [Compiler MainMenuBP] Warning [1879.57] Compile of MainMenuBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 165 ms] (/Game/MainMenu/MainMenuBP.MainMenuBP)
+[2017.03.18-16.17.20:327][520]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.17.26:386][229]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.17.26:397][229]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:397][229]LogBlueprint:Error: [Compiler TeamSetup] Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.26:397][229]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:397][229]LogBlueprint:Error: [Compiler TeamSetup] Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.26:406][229]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:406][229]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.26:406][229]LogBlueprint:Error: [Compiler TeamSetup] Error The property associated with  StageIn  could not be found
+[2017.03.18-16.17.26:406][229]LogBlueprint:Error: [Compiler TeamSetup] Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.17.26:406][229]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:406][229]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error The property associated with  StageIn  could not be found
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.17.26:572][229]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.26:573][229]BlueprintEditorCompileResults:Error: Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.26:573][229]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1887.93] Compile of TeamSetup failed. 10 Fatal Issue(s) 0 Warning(s) [in 186 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.17.27:636][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.17.27:773][347]LogSavePackage: Save=27.58ms
+[2017.03.18-16.17.27:773][347]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetup554E689A43772A382EB5408CA86C65CD.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.17.27:776][347]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.17.40:602][863]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.17.40:613][863]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.40:613][863]LogBlueprint:Error: [Compiler TeamSetup] Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.40:613][863]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.40:613][863]LogBlueprint:Error: [Compiler TeamSetup] Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.40:801][863]BlueprintEditorCompileResults:Error: Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.40:801][863]BlueprintEditorCompileResults:Error: Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.40:801][863]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.40:801][863]BlueprintEditorCompileResults:Error: Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.40:801][863]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1902.16] Compile of TeamSetup failed. 4 Fatal Issue(s) 0 Warning(s) [in 199 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.17.51:535][131]BlueprintLog: New page: Compile TeamSetup
+[2017.03.18-16.17.51:545][131]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:546][131]LogBlueprint:Error: [Compiler TeamSetup] Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.51:546][131]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:546][131]LogBlueprint:Error: [Compiler TeamSetup] Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.51:554][131]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:554][131]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.51:554][131]LogBlueprint:Error: [Compiler TeamSetup] Error The property associated with  StageIn  could not be found
+[2017.03.18-16.17.51:554][131]LogBlueprint:Error: [Compiler TeamSetup] Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.17.51:554][131]LogBlueprint:Error: [Compiler TeamSetup] Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:554][131]LogBlueprint:Error: [Compiler TeamSetup] Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.51:720][131]BlueprintEditorCompileResults:Error: Error Invalid property 'NewVar_0' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:720][131]BlueprintEditorCompileResults:Error: Error The variable NewVar_0 declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.51:720][131]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:720][131]BlueprintEditorCompileResults:Error: Error The variable StageIn declared in  TeamSetup  has an invalid type Stage List Structure
+[2017.03.18-16.17.51:720][131]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_CustomEvent_StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:720][131]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_CustomEvent_StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.51:720][131]BlueprintEditorCompileResults:Error: Error The property associated with  StageIn  could not be found
+[2017.03.18-16.17.51:721][131]BlueprintEditorCompileResults:Error: Error ICE SetVariableOnPersistentFrame - No property found.  StageIn
+[2017.03.18-16.17.51:721][131]BlueprintEditorCompileResults:Error: Error Invalid property 'StageIn' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.17.51:721][131]BlueprintEditorCompileResults:Error: Error Failed to create property StageIn from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.17.51:721][131]LogBlueprint:Warning: [Compiler TeamSetup] Warning [1913.08] Compile of TeamSetup failed. 10 Fatal Issue(s) 0 Warning(s) [in 186 ms] (/Game/UI/TeamSetup.TeamSetup)
+[2017.03.18-16.17.52:252][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageSelect" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset" SILENT=true
+[2017.03.18-16.17.52:387][188]LogSavePackage: Save=27.37ms
+[2017.03.18-16.17.52:387][188]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/StageSelect1644124549D6AE4806AF6F9C12A5849D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset'
+[2017.03.18-16.17.52:390][188]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/StageSelect.uasset
+[2017.03.18-16.17.52:393][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TeamSetup" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset" SILENT=true
+[2017.03.18-16.17.52:528][188]LogSavePackage: Save=25.40ms
+[2017.03.18-16.17.52:528][188]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/TeamSetupAA75F7514198AB015476C385B964214A.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset'
+[2017.03.18-16.17.52:532][188]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/TeamSetup.uasset
+[2017.03.18-16.18.27:211][306]BlueprintLog: New page: Compile StageSelect
+[2017.03.18-16.18.27:225][306]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.18.27:225][306]LogBlueprint:Error: [Compiler StageSelect] Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.18.27:231][306]LogBlueprint:Error: [Compiler StageSelect] Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.18.27:232][306]LogBlueprint:Error: [Compiler StageSelect] Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.18.27:428][306]BlueprintEditorCompileResults:Error: Error Invalid property 'ListofStages' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.18.27:428][306]BlueprintEditorCompileResults:Error: Error The variable ListofStages declared in  StageSelect  has an invalid type Array of Stage List Structures
+[2017.03.18-16.18.27:428][306]BlueprintEditorCompileResults:Error: Error Invalid property 'CallFunc_SelectingStage_StageOut' structure 'StageList' error: Struct 'UserDefinedStruct /Game/Characters/Structs/StageList.StageList' Property 'StageList_11_17877C194ECD5F9428A48EBE7A7752F1' Error ( Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_EnemyList_0' is not compiled )
+[2017.03.18-16.18.27:428][306]BlueprintEditorCompileResults:Error: Error Failed to create property CallFunc_SelectingStage_StageOut from  <None>  due to a bad or unknown type (Stage List Structure)
+[2017.03.18-16.18.27:428][306]LogBlueprint:Warning: [Compiler StageSelect] Warning [1948.79] Compile of StageSelect failed. 4 Fatal Issue(s) 0 Warning(s) [in 217 ms] (/Game/UI/StageSelect.StageSelect)
+[2017.03.18-16.18.29:526][550]LogBlueprint:Warning: Unknown type of hyperlinked object
+[2017.03.18-16.18.30:766][672]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.18-16.18.31:159][673]Cmd: QUIT_EDITOR
+[2017.03.18-16.18.32:040][673]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.18-16.18.32:065][673]LogExit: Preparing to exit.
+[2017.03.18-16.18.33:163][673]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Content/' was aborted.
+[2017.03.18-16.18.33:197][673]LogExit: Editor shut down
+[2017.03.18-16.18.33:197][673]LogExit: Transaction tracking system shut down
+[2017.03.18-16.18.33:375][673]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.18-16.18.33:376][673]LogExit: Object subsystem successfully closed.
+[2017.03.18-16.18.33:397][673]LogD3D11RHI: Shutdown
+[2017.03.18-16.18.33:397][673]LogD3D11RHI: CleanupD3DDevice
+[2017.03.18-16.18.33:466][673]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module SequencerWidgets (236)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2017.03.18-16.18.33:500][673]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2017.03.18-16.18.33:500][673]LogDirectoryWatcher: A directory notification for 'E:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.03.18-16.18.33:501][673]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2017.03.18-16.18.33:501][673]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2017.03.18-16.18.33:501][673]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2017.03.18-16.18.33:501][673]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Content/Collections/' was aborted.
+[2017.03.18-16.18.33:501][673]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Content/Developers/Rich/Collections/' was aborted.
+[2017.03.18-16.18.33:501][673]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Saved/Collections/' was aborted.
+[2017.03.18-16.18.33:501][673]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2017.03.18-16.18.33:501][673]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.03.18-16.18.33:501][673]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.03.18-16.18.33:502][673]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.03.18-16.18.33:503][673]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.03.18-16.18.33:503][673]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.03.18-16.18.33:503][673]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.03.18-16.18.33:503][673]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.03.18-16.18.34:117][673]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.03.18-16.18.34:118][673]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.03.18-16.18.34:171][673]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.03.18-16.18.34:178][673]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.03.18-16.18.34:178][673]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.03.18-16.18.34:179][673]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.03.18-16.18.34:179][673]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.03.18-16.18.34:179][673]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.03.18-16.18.34:179][673]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.03.18-16.18.34:180][673]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.03.18-16.18.34:194][673]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.03.18-16.18.34:195][673]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.03.18-16.18.34:196][673]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.03.18-16.18.34:196][673]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.03.18-16.18.34:197][673]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.03.18-16.18.34:198][673]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.03.18-16.18.34:198][673]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.03.18-16.18.34:299][673]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.03.18-16.18.34:399][673]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.03.18-16.18.34:404][673]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.03.18-16.18.34:404][673]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.03.18-16.18.34:404][673]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.03.18-16.18.34:404][673]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.03.18-16.18.34:404][673]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.03.18-16.18.34:404][673]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.03.18-16.18.34:404][673]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.18-16.18.34:404][673]LogDirectoryWatcher: A directory notification for '../../../../../../UDK Projects/SinglePlayerRPG/Content/' was aborted.
+[2017.03.18-16.18.34:404][673]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.18-16.18.34:405][673]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.03.18-16.18.34:534][673]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.03.18-16.18.34:534][673]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.03.18-16.18.34:534][673]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.03.18-16.18.34:534][673]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.03.18-16.18.34:577][673]LogDerivedDataCache: Shutdown
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.03.18-16.18.34:577][673]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.03.18-16.18.34:578][673]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.18-16.18.34:578][673]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.18-16.18.34:578][673]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.03.18-16.18.34:578][673]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84888430-4EE3-85F9-ECEA-12BDF4FBABB0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=f79ca4144587eda685298485d1afda96%7C957c3f1984d54dc587ccdd300919758c%7C479aff05-48e7-4d8a-9f7b-142620466bfa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.18-16.18.34:578][673]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84888430-4EE3-85F9-ECEA-12BDF4FBABB0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=f79ca4144587eda685298485d1afda96%7C957c3f1984d54dc587ccdd300919758c%7C479aff05-48e7-4d8a-9f7b-142620466bfa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.18-16.18.34:583][673]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.18-16.18.34:583][673]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.18-16.18.34:583][673]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.18-16.18.34:583][673]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.18-16.18.34:583][673]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.18-16.18.34:586][673]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.18-16.18.34:588][673]LogExit: Exiting.
+[2017.03.18-16.18.34:589][673]Log file closed, 03/18/17 16:18:34

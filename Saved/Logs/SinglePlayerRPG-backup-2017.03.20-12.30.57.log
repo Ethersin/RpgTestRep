@@ -1,0 +1,1603 @@
+﻿Log file open, 03/19/17 11:22:28
+LogInit:Display: Running engine for game: SinglePlayerRPG
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1664282228) SRandInit(1664282228).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.154951
+LogPluginManager: Loaded Plugin Paper2D, From E:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From E:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From E:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From E:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From E:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From E:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From E:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: E:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.19-11.22.28:853][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.19-11.22.28:853][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.19-11.22.29:307][  0]LogInit: Computer: RICH-PC
+[2017.03.19-11.22.29:307][  0]LogInit: User: Rich
+[2017.03.19-11.22.29:307][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.19-11.22.29:307][  0]LogInit: High frequency timer resolution =3.312648 MHz
+[2017.03.19-11.22.29:307][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.03.19-11.22.29:307][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.19-11.22.29:307][  0]LogMemory: Process Physical Memory: 257.76 MB used, 257.76 MB peak
+[2017.03.19-11.22.29:307][  0]LogMemory: Process Virtual Memory: 259.95 MB used, 259.95 MB peak
+[2017.03.19-11.22.29:307][  0]LogMemory: Physical Memory: 4822.74 MB used, 16271.22 MB total
+[2017.03.19-11.22.29:307][  0]LogMemory: Virtual Memory: 624.20 MB used, 134217728.00 MB total
+[2017.03.19-11.22.30:544][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.03.19-11.22.34:090][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.19-11.22.34:128][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.03.19-11.22.34:128][  0]LogD3D11RHI:       4059/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.19-11.22.34:142][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.03.19-11.22.34:142][  0]LogD3D11RHI:       112/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.19-11.22.34:144][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.19-11.22.34:144][  0]LogD3D11RHI:       0/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.19-11.22.34:144][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.19-11.22.34:148][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.19-11.22.34:148][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.19-11.22.34:148][  0]LogWindows: EnumDisplayDevices:
+[2017.03.19-11.22.34:148][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.03.19-11.22.34:148][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.03.19-11.22.34:148][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.03.19-11.22.34:148][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.03.19-11.22.34:149][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.03.19-11.22.34:149][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.03.19-11.22.34:149][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.03.19-11.22.34:149][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.03.19-11.22.34:149][  0]LogD3D11RHI:   Driver Version: 378.78 (internal:21.21.13.7878, unified:378.78)
+[2017.03.19-11.22.34:149][  0]LogD3D11RHI:      Driver Date: 2-23-2017
+[2017.03.19-11.22.34:149][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.19-11.22.34:162][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.19-11.22.34:797][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.19-11.22.35:000][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../UDK Projects/SinglePlayerRPG/Intermediate/Shaders/WorkingDirectory/8872/).
+[2017.03.19-11.22.35:000][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rich/AppData/Local/Temp/UnrealShaderWorkingDir/16B5D9EE4E82F034DE61F6A7726315F3/'.
+[2017.03.19-11.22.35:025][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.19-11.22.39:419][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.19-11.22.39:427][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.19-11.22.39:435][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.19-11.22.39:443][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.19-11.22.39:450][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.19-11.22.39:492][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.19-11.22.39:513][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.19-11.22.39:531][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.19-11.22.39:557][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.19-11.22.39:575][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.19-11.22.39:585][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.19-11.22.39:599][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.19-11.22.39:599][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.19-11.22.39:600][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.19-11.22.39:859][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.19-11.22.39:865][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.19-11.22.39:870][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.19-11.22.39:876][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.19-11.22.39:882][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.19-11.22.39:909][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.19-11.22.39:919][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.19-11.22.40:957][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.19-11.22.41:315][  0]LogDerivedDataCache: Loaded boot cache 0.36s 62MB C:/Users/Rich/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.19-11.22.41:315][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Rich/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.03.19-11.22.41:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UDK Projects/SinglePlayerRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.19-11.22.41:315][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.19-11.22.41:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UDK Projects/SinglePlayerRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.19-11.22.41:315][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.19-11.22.41:431][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.19-11.22.41:443][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rich/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.19-11.22.53:404][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.19-11.22.53:511][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.19-11.22.53:968][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.03.19-11.22.53:968][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.19-11.22.53:968][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.03.19-11.22.56:558][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.19-11.23.02:953][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: singleplayerrpg, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1021367804
+[2017.03.19-11.23.03:245][  0]LogAssetRegistry: FAssetRegistry took 0.0381 seconds to start up
+[2017.03.19-11.23.03:683][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.206173 seconds
+[2017.03.19-11.23.03:703][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.03.19-11.23.03:703][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2017.03.19-11.23.03:703][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.19-11.23.03:750][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.19-11.23.12:695][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.19-11.23.12:695][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.19-11.23.35:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.19-11.23.36:036][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.19-11.23.38:295][  0]SourceControl: Info Source control is disabled
+[2017.03.19-11.23.38:309][  0]SourceControl: Info Source control is disabled
+[2017.03.19-11.23.38:414][  0]SourceControl: Info Source control is disabled
+[2017.03.19-11.23.38:484][  0]SourceControl: Info Source control is disabled
+[2017.03.19-11.23.41:315][  0]LogEngine: Initializing Engine...
+[2017.03.19-11.23.41:332][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.19-11.23.42:845][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.19-11.23.43:097][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.23.43:110][  0]LogInit: FAudioDevice initialized.
+[2017.03.19-11.23.43:143][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Rich/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.19-11.23.43:151][  0]LogInit: Texture streaming: Enabled
+[2017.03.19-11.23.43:539][  0]LogInit: Transaction tracking system initialized
+[2017.03.19-11.23.44:239][  0]BlueprintLog: New page: Editor Load
+[2017.03.19-11.23.45:687][  0]LocalizationService: Info Localization service is disabled
+[2017.03.19-11.23.46:818][  0]LogConsoleResponse:Display: 
+[2017.03.19-11.23.50:354][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Content/' took 0.02s
+[2017.03.19-11.23.50:354][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.19-11.23.50:354][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.19-11.23.54:014][  0]SourceControl: Info Source control is disabled
+[2017.03.19-11.23.54:069][  0]Cmd: MAP LOAD FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.19-11.23.54:132][  0]LightingResults: New page: Lighting Build
+[2017.03.19-11.23.54:398][  0]MapCheck: New page: Map Check
+[2017.03.19-11.23.54:398][  0]LightingResults: New page: Lighting Build
+[2017.03.19-11.23.58:064][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.23.58:064][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.23.58:423][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.23.58:423][  0]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.23.59:184][  0]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.24.00:016][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.19-11.24.00:060][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.19-11.24.00:141][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 80.496ms to complete.
+[2017.03.19-11.24.00:141][  0]LogFileHelpers: Loading map 'MainMapTest' took 6.076
+[2017.03.19-11.24.02:074][  0]LogCollectionManager: Loaded 0 collections in 0.002517 seconds
+[2017.03.19-11.24.02:269][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Saved/Collections/' took 0.01s
+[2017.03.19-11.24.02:269][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Content/Developers/Rich/Collections/' took 0.01s
+[2017.03.19-11.24.02:269][  0]LogFileCache: Scanning file cache for directory 'E:/UDK Projects/SinglePlayerRPG/Content/Collections/' took 0.01s
+[2017.03.19-11.24.02:269][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.19-11.24.02:299][  0]LogContentBrowser: Native class hierarchy populated in 0.0270 seconds. Added 2141 classes and 415 folders.
+[2017.03.19-11.24.02:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.19-11.24.02:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.19-11.24.02:384][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 12 classes and 0 folders.
+[2017.03.19-11.24.02:446][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.03.19-11.24.03:614][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.19-11.24.03:726][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.19-11.24.05:087][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.19-11.24.05:315][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.19-11.24.05:463][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.19-11.24.05:463][  0]LogLoad: (Engine Initialization) Total time: 100.44 seconds
+[2017.03.19-11.24.05:463][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 2.48 seconds
+[2017.03.19-11.24.05:476][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.19-11.24.05:476][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.19-11.24.05:834][  0]LogOcInput: OculusInput pre-init called
+[2017.03.19-11.24.06:161][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.03.19-11.24.06:982][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2017.03.19-11.24.08:156][  2]LogAssetRegistry: Asset discovery search completed in 64.9330 seconds
+[2017.03.19-11.24.08:173][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.19-11.24.08:180][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.023708 seconds (updated 0 objects)
+[2017.03.19-11.26.52:472][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.26.52:513][897]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:26:52)
+[2017.03.19-11.26.52:513][897]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.26.52:514][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001536s)
+[2017.03.19-11.26.52:514][897]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.26.52:516][897]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2017.03.19-11.26.52:516][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.003081s)
+[2017.03.19-11.26.52:895][897]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.26.52:904][897]LogInit: FAudioDevice initialized.
+[2017.03.19-11.26.53:038][897]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.26.53:109][897]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.26.53
+[2017.03.19-11.26.53:176][897]LogWorld: Bringing up level for play took: 0.069304
+[2017.03.19-11.26.53:258][897]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.26.53:287][897]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.03.19-11.26.53:288][897]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.26.53:288][897]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.26.53:288][897]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.26.53:395][897]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.26.53:395][897]LogScriptCore:Warning: 
+[2017.03.19-11.26.53:529][897]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.26.53:529][897]LogScriptCore:Warning: 
+[2017.03.19-11.26.53:529][897]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.26.53:529][897]LogScriptCore:Warning: 
+[2017.03.19-11.26.53:529][897]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.26.53:529][897]LogScriptCore:Warning: 
+[2017.03.19-11.26.53:529][897]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.26.53:529][897]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 1.33
+[2017.03.19-11.27.42:616][968]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 112 classes and 0 folders.
+[2017.03.19-11.28.55:742][459]LogEditorTransaction: Undo Move Nodes
+[2017.03.19-11.29.12:039][300]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.29.12:134][300]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.29.12:134][300]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.29.12:939][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.29.14:773][338]LogSavePackage: Save=85.00ms
+[2017.03.19-11.29.14:773][338]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI206D7E234BFFB046C0AEEB91D67933B0.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.29.14:776][338]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.29.24:416][428]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.29.25:897][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.29.26:048][577]LogSavePackage: Save=23.85ms
+[2017.03.19-11.29.26:048][577]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI9C5C99F944E83C5C8EA6AFA2854771AA.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.29.26:051][577]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.29.42:462][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.29.42:614][353]LogSavePackage: Save=25.09ms
+[2017.03.19-11.29.42:614][353]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUID7B22C0E453826EE3A707584E201332E.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.29.42:616][353]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.29.44:773][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.29.44:773][598]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:29:44)
+[2017.03.19-11.29.44:773][598]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.29.44:774][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000871s)
+[2017.03.19-11.29.44:775][598]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.29.44:775][598]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2017.03.19-11.29.44:775][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001776s)
+[2017.03.19-11.29.44:814][598]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.29.44:823][598]LogInit: FAudioDevice initialized.
+[2017.03.19-11.29.44:880][598]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.29.44:884][598]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.29.44
+[2017.03.19-11.29.44:885][598]LogWorld: Bringing up level for play took: 0.003532
+[2017.03.19-11.29.44:886][598]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.29.44:887][598]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.29.44:887][598]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.29.44:887][598]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.29.44:887][598]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.29.44:889][598]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.29.44:889][598]LogScriptCore:Warning: 
+[2017.03.19-11.29.44:902][598]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.29.44:902][598]LogScriptCore:Warning: 
+[2017.03.19-11.29.44:902][598]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.29.44:902][598]LogScriptCore:Warning: 
+[2017.03.19-11.29.44:902][598]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.29.44:902][598]LogScriptCore:Warning: 
+[2017.03.19-11.29.44:902][598]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.29.44:904][598]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.705
+[2017.03.19-11.39.29:818][ 72]LogUObjectArray:Warning: Other object in slot
+[2017.03.19-11.39.56:068][ 72]LogStats: FPlatformStackWalk::StackWalkAndDump - 26.250 s
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: === Handled ensure: ===
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: 
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1018]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: Stack: 
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:183]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:297]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:432]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!FKismetDebugUtilities::GetWatchText() [d:\build\++ue4+release-4.13+compile\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1018]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-BlueprintGraph.dll!UK2Node::GetPinHoverText() [d:\build\++ue4+release-4.13+compile\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:1219]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-GraphEditor.dll!SGraphPin::GetTooltipText() [d:\build\++ue4+release-4.13+compile\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:976]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-GraphEditor.dll!TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64>::operator()<>() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:161]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-GraphEditor.dll!TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64> >() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\public\delegates\tuple.h:115]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-GraphEditor.dll!TBaseSPMethodDelegateInstance<1,SGraphPin,0,FText __cdecl(void)>::Execute() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:317]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Slate.dll!TBaseDelegate<FText>::Execute() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:521]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Slate.dll!TAttribute<FText>::Get() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\public\misc\attribute.h:135]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Slate.dll!SToolTip::IsEmpty() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\widgets\stooltip.cpp:84]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::UpdateToolTip() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:3338]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::ProcessMouseMoveEvent() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5523]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::OnMouseMove() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5478]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:1622]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:1930]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:747]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:669]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: USER32.dll
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: USER32.dll
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformMisc::PumpMessages() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsplatformmisc.cpp:905]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:2788]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\launch.cpp:156]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:126]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:202]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:264]
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: KERNEL32.DLL
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: ntdll.dll
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: ntdll.dll
+[2017.03.19-11.39.56:068][ 72]LogOutputDevice:Error: 
+[2017.03.19-11.39.56:068][ 72]LogStats:                SubmitErrorReport -  0.000 s
+[2017.03.19-11.39.56:764][ 72]LogStats:                    SendNewReport -  0.696 s
+[2017.03.19-11.39.56:764][ 72]LogStats:             FDebug::EnsureFailed - 26.946 s
+[2017.03.19-11.39.56:764][ 72]LogUObjectArray:Warning: Other object in slot
+[2017.03.19-11.40.58:909][465]BlueprintLog: New page: Compile MyCharacterClass
+[2017.03.19-11.40.59:145][465]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.40.59:145][465]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.41.00:499][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-11.41.00:652][465]LogSavePackage: Save=18.50ms
+[2017.03.19-11.41.00:652][465]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTestB1DE59E749C573CC6D7B76BCA750026B.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-11.41.00:655][465]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-11.41.00:700][465]LogFileHelpers: Saving map 'MainMapTest' took 0.284
+[2017.03.19-11.41.00:752][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MyCharacterClass" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset" SILENT=true
+[2017.03.19-11.41.00:931][465]LogSavePackage: Save=58.13ms
+[2017.03.19-11.41.00:931][465]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MyCharacterClass5FFA6561403F8A8288F15994E59752CA.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset'
+[2017.03.19-11.41.00:934][465]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset
+[2017.03.19-11.41.02:598][645]BlueprintLog: New page: Compile MyCharacterClass
+[2017.03.19-11.41.02:821][645]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.41.02:821][645]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.41.07:137][ 45]BlueprintLog: New page: Compile MyCharacterClass
+[2017.03.19-11.41.08:129][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-11.41.08:282][ 74]LogSavePackage: Save=17.15ms
+[2017.03.19-11.41.08:282][ 74]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTestB147E74044385962502B6AB198ADDC2E.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-11.41.08:286][ 74]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-11.41.08:333][ 74]LogFileHelpers: Saving map 'MainMapTest' took 0.283
+[2017.03.19-11.41.08:347][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MyCharacterClass" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset" SILENT=true
+[2017.03.19-11.41.08:508][ 74]LogSavePackage: Save=36.97ms
+[2017.03.19-11.41.08:508][ 74]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MyCharacterClass50EA4CFF4C68E75852FC7899E903BC18.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset'
+[2017.03.19-11.41.08:511][ 74]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset
+[2017.03.19-11.43.22:116][813]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.43.22:180][813]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.43.22:180][813]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.43.23:347][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.43.23:492][924]LogSavePackage: Save=26.12ms
+[2017.03.19-11.43.23:492][924]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI3AAD0A694C3007ECECB6FCA627E101EC.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.43.23:495][924]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.43.24:837][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.43.24:837][ 77]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:43:24)
+[2017.03.19-11.43.24:837][ 77]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.43.24:838][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000888s)
+[2017.03.19-11.43.24:839][ 77]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.43.24:839][ 77]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2017.03.19-11.43.24:839][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001907s)
+[2017.03.19-11.43.24:855][ 77]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.43.24:863][ 77]LogInit: FAudioDevice initialized.
+[2017.03.19-11.43.24:897][ 77]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.43.24:900][ 77]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.43.24
+[2017.03.19-11.43.24:900][ 77]LogWorld: Bringing up level for play took: 0.002515
+[2017.03.19-11.43.24:901][ 77]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.43.24:901][ 77]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.43.24:901][ 77]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.43.24:901][ 77]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.43.24:903][ 77]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.43.24:903][ 77]LogScriptCore:Warning: 
+[2017.03.19-11.43.24:917][ 77]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.43.24:917][ 77]LogScriptCore:Warning: 
+[2017.03.19-11.43.24:917][ 77]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.43.24:917][ 77]LogScriptCore:Warning: 
+[2017.03.19-11.43.24:917][ 77]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.43.24:917][ 77]LogScriptCore:Warning: 
+[2017.03.19-11.43.24:917][ 77]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.43.24:917][ 77]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.718
+[2017.03.19-11.44.55:460][700]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.44.55:962][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.44.56:114][741]LogSavePackage: Save=28.75ms
+[2017.03.19-11.44.56:114][741]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUIB3EE011C40EC81C0D71917A0770D4C8F.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.44.56:117][741]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.44.57:291][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.44.57:291][877]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:44:57)
+[2017.03.19-11.44.57:292][877]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.44.57:293][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001136s)
+[2017.03.19-11.44.57:293][877]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.44.57:294][877]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2017.03.19-11.44.57:294][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.002118s)
+[2017.03.19-11.44.57:312][877]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.44.57:319][877]LogInit: FAudioDevice initialized.
+[2017.03.19-11.44.57:355][877]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.44.57:358][877]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.44.57
+[2017.03.19-11.44.57:359][877]LogWorld: Bringing up level for play took: 0.003259
+[2017.03.19-11.44.57:360][877]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.44.57:361][877]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.44.57:361][877]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.44.57:361][877]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.44.57:361][877]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.44.57:362][877]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.44.57:362][877]LogScriptCore:Warning: 
+[2017.03.19-11.44.57:375][877]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.44.57:375][877]LogScriptCore:Warning: 
+[2017.03.19-11.44.57:375][877]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.44.57:375][877]LogScriptCore:Warning: 
+[2017.03.19-11.44.57:375][877]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.44.57:375][877]LogScriptCore:Warning: 
+[2017.03.19-11.44.57:375][877]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.44.57:378][877]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.821
+[2017.03.19-11.45.04:960][745]BlueprintLog: New page: Compile MyPlayer
+[2017.03.19-11.45.05:628][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-11.45.05:780][788]LogSavePackage: Save=17.60ms
+[2017.03.19-11.45.05:780][788]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest232AA771470401609AF6859B18782911.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-11.45.05:783][788]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-11.45.05:829][788]LogFileHelpers: Saving map 'MainMapTest' took 0.285
+[2017.03.19-11.45.05:842][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MyPlayer" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyPlayer.uasset" SILENT=true
+[2017.03.19-11.45.06:008][788]LogSavePackage: Save=42.51ms
+[2017.03.19-11.45.06:008][788]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MyPlayerC8729D5646C20BA87FDFF5B5007533F1.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyPlayer.uasset'
+[2017.03.19-11.45.06:011][788]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyPlayer.uasset
+[2017.03.19-11.45.07:075][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.45.07:075][911]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:45:07)
+[2017.03.19-11.45.07:076][911]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.45.07:076][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000856s)
+[2017.03.19-11.45.07:077][911]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.45.07:077][911]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2017.03.19-11.45.07:078][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.002092s)
+[2017.03.19-11.45.07:096][911]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.45.07:103][911]LogInit: FAudioDevice initialized.
+[2017.03.19-11.45.07:140][911]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.45.07:144][911]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.45.07
+[2017.03.19-11.45.07:145][911]LogWorld: Bringing up level for play took: 0.003207
+[2017.03.19-11.45.07:146][911]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.45.07:146][911]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.45.07:146][911]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.45.07:146][911]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.45.07:146][911]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.45.07:147][911]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.07:147][911]LogScriptCore:Warning: 
+[2017.03.19-11.45.07:161][911]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.07:161][911]LogScriptCore:Warning: 
+[2017.03.19-11.45.07:161][911]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.07:161][911]LogScriptCore:Warning: 
+[2017.03.19-11.45.07:161][911]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.07:161][911]LogScriptCore:Warning: 
+[2017.03.19-11.45.07:161][911]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.45.07:164][911]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.965
+[2017.03.19-11.45.33:283][965]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.45.33:860][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.45.34:003][ 16]LogSavePackage: Save=26.30ms
+[2017.03.19-11.45.34:003][ 16]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUIB82E90B144D627A2D8943896C0D06C50.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.45.34:006][ 16]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.45.34:570][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.45.34:570][ 79]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:45:34)
+[2017.03.19-11.45.34:570][ 79]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.45.34:571][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000828s)
+[2017.03.19-11.45.34:571][ 79]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.45.34:572][ 79]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2017.03.19-11.45.34:572][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001861s)
+[2017.03.19-11.45.34:589][ 79]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.45.34:597][ 79]LogInit: FAudioDevice initialized.
+[2017.03.19-11.45.34:635][ 79]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.45.34:638][ 79]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.45.34
+[2017.03.19-11.45.34:639][ 79]LogWorld: Bringing up level for play took: 0.002713
+[2017.03.19-11.45.34:640][ 79]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.45.34:640][ 79]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.45.34:640][ 79]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.45.34:640][ 79]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.45.34:640][ 79]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.45.34:641][ 79]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.34:641][ 79]LogScriptCore:Warning: 
+[2017.03.19-11.45.34:654][ 79]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.34:654][ 79]LogScriptCore:Warning: 
+[2017.03.19-11.45.34:654][ 79]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.34:654][ 79]LogScriptCore:Warning: 
+[2017.03.19-11.45.34:654][ 79]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.34:654][ 79]LogScriptCore:Warning: 
+[2017.03.19-11.45.34:654][ 79]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.45.34:655][ 79]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.456
+[2017.03.19-11.45.57:068][710]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.45.57:544][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.45.57:692][747]LogSavePackage: Save=27.14ms
+[2017.03.19-11.45.57:692][747]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI3C50D2A7487B7A027ECE20B40C43CB6A.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.45.57:695][747]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.45.59:150][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.45.59:150][916]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:45:59)
+[2017.03.19-11.45.59:150][916]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.45.59:151][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000797s)
+[2017.03.19-11.45.59:151][916]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.45.59:152][916]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.03.19-11.45.59:152][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001706s)
+[2017.03.19-11.45.59:170][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.45.59:177][916]LogInit: FAudioDevice initialized.
+[2017.03.19-11.45.59:215][916]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.45.59:219][916]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.45.59
+[2017.03.19-11.45.59:220][916]LogWorld: Bringing up level for play took: 0.003200
+[2017.03.19-11.45.59:220][916]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.45.59:221][916]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.45.59:221][916]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.45.59:221][916]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.45.59:221][916]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.45.59:222][916]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.59:222][916]LogScriptCore:Warning: 
+[2017.03.19-11.45.59:237][916]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.59:237][916]LogScriptCore:Warning: 
+[2017.03.19-11.45.59:237][916]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.59:237][916]LogScriptCore:Warning: 
+[2017.03.19-11.45.59:237][916]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.45.59:237][916]LogScriptCore:Warning: 
+[2017.03.19-11.45.59:237][916]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.45.59:239][916]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 1.039
+[2017.03.19-11.46.38:082][431]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.46.38:147][431]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.46.38:147][431]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.46.38:710][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.46.38:861][470]LogSavePackage: Save=28.03ms
+[2017.03.19-11.46.38:861][470]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUIC6F9835D4FC189ACC08F9A8003F50334.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.46.38:864][470]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.46.39:765][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.46.39:765][572]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:46:39)
+[2017.03.19-11.46.39:765][572]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.46.39:766][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000840s)
+[2017.03.19-11.46.39:766][572]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.46.39:767][572]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2017.03.19-11.46.39:767][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001827s)
+[2017.03.19-11.46.39:784][572]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.46.39:793][572]LogInit: FAudioDevice initialized.
+[2017.03.19-11.46.39:828][572]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.46.39:832][572]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.46.39
+[2017.03.19-11.46.39:832][572]LogWorld: Bringing up level for play took: 0.002777
+[2017.03.19-11.46.39:833][572]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.46.39:834][572]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.46.39:834][572]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.46.39:834][572]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.46.39:834][572]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.46.39:835][572]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.39:835][572]LogScriptCore:Warning: 
+[2017.03.19-11.46.39:848][572]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.39:848][572]LogScriptCore:Warning: 
+[2017.03.19-11.46.39:848][572]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.39:848][572]LogScriptCore:Warning: 
+[2017.03.19-11.46.39:848][572]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.39:848][572]LogScriptCore:Warning: 
+[2017.03.19-11.46.39:848][572]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.46.39:849][572]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.35
+[2017.03.19-11.46.45:203][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.46.45:203][190]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:46:45)
+[2017.03.19-11.46.45:203][190]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.46.45:204][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2017.03.19-11.46.45:204][190]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.46.45:204][190]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2017.03.19-11.46.45:204][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001700s)
+[2017.03.19-11.46.45:222][190]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.46.45:229][190]LogInit: FAudioDevice initialized.
+[2017.03.19-11.46.45:259][190]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.46.45:262][190]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.46.45
+[2017.03.19-11.46.45:263][190]LogWorld: Bringing up level for play took: 0.002884
+[2017.03.19-11.46.45:264][190]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.46.45:264][190]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.46.45:264][190]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.46.45:264][190]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.46.45:266][190]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.45:266][190]LogScriptCore:Warning: 
+[2017.03.19-11.46.45:280][190]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.45:280][190]LogScriptCore:Warning: 
+[2017.03.19-11.46.45:280][190]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.45:280][190]LogScriptCore:Warning: 
+[2017.03.19-11.46.45:280][190]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.46.45:280][190]LogScriptCore:Warning: 
+[2017.03.19-11.46.45:280][190]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.46.45:280][190]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.919
+[2017.03.19-11.47.39:770][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.47.39:770][564]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:47:39)
+[2017.03.19-11.47.39:770][564]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.47.39:771][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000956s)
+[2017.03.19-11.47.39:771][564]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.47.39:772][564]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2017.03.19-11.47.39:772][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001899s)
+[2017.03.19-11.47.39:790][564]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.47.39:797][564]LogInit: FAudioDevice initialized.
+[2017.03.19-11.47.39:831][564]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.47.39:834][564]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.47.39
+[2017.03.19-11.47.39:835][564]LogWorld: Bringing up level for play took: 0.002807
+[2017.03.19-11.47.39:836][564]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.47.39:836][564]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.47.39:836][564]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.47.39:836][564]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.47.39:838][564]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.47.39:838][564]LogScriptCore:Warning: 
+[2017.03.19-11.47.39:850][564]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.47.39:850][564]LogScriptCore:Warning: 
+[2017.03.19-11.47.39:850][564]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.47.39:850][564]LogScriptCore:Warning: 
+[2017.03.19-11.47.39:850][564]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.47.39:850][564]LogScriptCore:Warning: 
+[2017.03.19-11.47.39:850][564]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.47.39:850][564]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.349
+[2017.03.19-11.49.29:762][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.49.29:762][568]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:49:29)
+[2017.03.19-11.49.29:762][568]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.49.29:764][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001446s)
+[2017.03.19-11.49.29:765][568]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.49.29:765][568]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2017.03.19-11.49.29:765][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.003109s)
+[2017.03.19-11.49.29:789][568]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.49.29:799][568]LogInit: FAudioDevice initialized.
+[2017.03.19-11.49.29:839][568]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.49.29:843][568]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.49.29
+[2017.03.19-11.49.29:844][568]LogWorld: Bringing up level for play took: 0.003478
+[2017.03.19-11.49.29:845][568]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.49.29:845][568]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.49.29:846][568]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.49.29:846][568]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.49.29:846][568]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.49.29:847][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.29:847][568]LogScriptCore:Warning: 
+[2017.03.19-11.49.29:862][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.29:862][568]LogScriptCore:Warning: 
+[2017.03.19-11.49.29:862][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.29:862][568]LogScriptCore:Warning: 
+[2017.03.19-11.49.29:862][568]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.29:862][568]LogScriptCore:Warning: 
+[2017.03.19-11.49.29:862][568]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.49.29:865][568]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.335
+[2017.03.19-11.49.59:039][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.49.59:040][ 13]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:49:59)
+[2017.03.19-11.49.59:040][ 13]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.49.59:041][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000922s)
+[2017.03.19-11.49.59:041][ 13]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.49.59:041][ 13]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2017.03.19-11.49.59:042][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001930s)
+[2017.03.19-11.49.59:061][ 13]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.49.59:068][ 13]LogInit: FAudioDevice initialized.
+[2017.03.19-11.49.59:102][ 13]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.49.59:105][ 13]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.49.59
+[2017.03.19-11.49.59:105][ 13]LogWorld: Bringing up level for play took: 0.002401
+[2017.03.19-11.49.59:106][ 13]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.49.59:106][ 13]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.49.59:107][ 13]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.49.59:107][ 13]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.49.59:108][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.59:108][ 13]LogScriptCore:Warning: 
+[2017.03.19-11.49.59:120][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.59:120][ 13]LogScriptCore:Warning: 
+[2017.03.19-11.49.59:120][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.59:120][ 13]LogScriptCore:Warning: 
+[2017.03.19-11.49.59:120][ 13]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.49.59:120][ 13]LogScriptCore:Warning: 
+[2017.03.19-11.49.59:120][ 13]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.49.59:120][ 13]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.921
+[2017.03.19-11.50.16:350][ 76]LogBlueprintUserMessages: [MainUI_C_15] Friends
+[2017.03.19-11.53.01:423][514]BlueprintLog: New page: Compile MyCharacterClass
+[2017.03.19-11.53.01:733][514]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.53.01:733][514]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.53.04:092][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-11.53.04:278][577]LogSavePackage: Save=38.52ms
+[2017.03.19-11.53.04:278][577]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest7C04D4F248FF13C9177D0A843E9F74BD.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-11.53.04:281][577]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-11.53.04:332][577]LogFileHelpers: Saving map 'MainMapTest' took 0.329
+[2017.03.19-11.53.04:346][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MyCharacterClass" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset" SILENT=true
+[2017.03.19-11.53.04:513][577]LogSavePackage: Save=37.62ms
+[2017.03.19-11.53.04:513][577]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MyCharacterClassAFC4E10F46225FA698F195A3B6057894.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset'
+[2017.03.19-11.53.04:517][577]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyCharacterClass.uasset
+[2017.03.19-11.53.04:520][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.53.04:682][577]LogSavePackage: Save=31.65ms
+[2017.03.19-11.53.04:682][577]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI38D3F2CC4EA39DEA0BCD27AF38A2E5A8.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.53.04:686][577]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.53.31:002][669]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.53.31:619][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.53.31:777][720]LogSavePackage: Save=33.13ms
+[2017.03.19-11.53.31:777][720]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUID63182D544EBC60A24EBF4B779946516.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.53.31:780][720]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.53.52:526][165]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.53.52:595][165]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.53.52:595][165]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-11.53.53:235][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.53.53:392][208]LogSavePackage: Save=33.94ms
+[2017.03.19-11.53.53:392][208]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI4BB4A060498260CB95A068AB03249C9D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.53.53:395][208]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.53.54:042][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.53.54:042][279]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:53:54)
+[2017.03.19-11.53.54:042][279]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.53.54:043][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000941s)
+[2017.03.19-11.53.54:043][279]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.53.54:043][279]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2017.03.19-11.53.54:044][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001978s)
+[2017.03.19-11.53.54:064][279]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.53.54:072][279]LogInit: FAudioDevice initialized.
+[2017.03.19-11.53.54:109][279]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.53.54:113][279]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.53.54
+[2017.03.19-11.53.54:113][279]LogWorld: Bringing up level for play took: 0.003037
+[2017.03.19-11.53.54:114][279]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.53.54:114][279]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.53.54:114][279]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.53.54:114][279]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.53.54:114][279]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.53.54:116][279]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.53.54:116][279]LogScriptCore:Warning: 
+[2017.03.19-11.53.54:129][279]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.53.54:129][279]LogScriptCore:Warning: 
+[2017.03.19-11.53.54:129][279]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.53.54:129][279]LogScriptCore:Warning: 
+[2017.03.19-11.53.54:129][279]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.53.54:129][279]LogScriptCore:Warning: 
+[2017.03.19-11.53.54:129][279]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.53.54:131][279]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.068
+[2017.03.19-11.54.28:502][351]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.54.29:218][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.54.29:385][415]LogSavePackage: Save=34.84ms
+[2017.03.19-11.54.29:385][415]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUICBAEC197428A57E78BDA5DA78CA06D64.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.54.29:388][415]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.54.43:108][ 18]BlueprintLog: New page: Compile MyPlayer
+[2017.03.19-11.54.43:772][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-11.54.43:928][ 54]LogSavePackage: Save=18.46ms
+[2017.03.19-11.54.43:928][ 54]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest143728EC4DB3F527B83A53A7ED39C2F7.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-11.54.43:931][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-11.54.43:980][ 54]LogFileHelpers: Saving map 'MainMapTest' took 0.295
+[2017.03.19-11.54.43:993][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MyPlayer" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyPlayer.uasset" SILENT=true
+[2017.03.19-11.54.44:169][ 54]LogSavePackage: Save=45.38ms
+[2017.03.19-11.54.44:169][ 54]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MyPlayer5564ED1849B7C0E4AB82EA9107E24203.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyPlayer.uasset'
+[2017.03.19-11.54.44:172][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/MyPlayer.uasset
+[2017.03.19-11.54.46:076][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.54.46:076][264]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:54:46)
+[2017.03.19-11.54.46:076][264]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.54.46:077][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000842s)
+[2017.03.19-11.54.46:078][264]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.54.46:078][264]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2017.03.19-11.54.46:078][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001712s)
+[2017.03.19-11.54.46:100][264]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.54.46:108][264]LogInit: FAudioDevice initialized.
+[2017.03.19-11.54.46:142][264]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.54.46:145][264]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.54.46
+[2017.03.19-11.54.46:146][264]LogWorld: Bringing up level for play took: 0.003298
+[2017.03.19-11.54.46:147][264]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.54.46:147][264]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.54.46:147][264]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.54.46:147][264]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.54.46:149][264]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.54.46:149][264]LogScriptCore:Warning: 
+[2017.03.19-11.54.46:162][264]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.54.46:162][264]LogScriptCore:Warning: 
+[2017.03.19-11.54.46:162][264]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.54.46:162][264]LogScriptCore:Warning: 
+[2017.03.19-11.54.46:162][264]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.54.46:162][264]LogScriptCore:Warning: 
+[2017.03.19-11.54.46:162][264]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.54.46:162][264]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.037
+[2017.03.19-11.55.45:779][256]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.55.46:367][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.55.46:520][299]LogSavePackage: Save=31.50ms
+[2017.03.19-11.55.46:520][299]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI9CB9EF53478CDF806ADC8389A89202FC.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.55.46:524][299]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.56.08:386][846]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.56.10:417][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.56.10:569][ 54]LogSavePackage: Save=31.76ms
+[2017.03.19-11.56.10:569][ 54]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUIA6B3B8654EF377346F7B67AD1CA2EB1C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.56.10:572][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.57.10:100][905]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.57.10:682][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.57.10:841][945]LogSavePackage: Save=32.96ms
+[2017.03.19-11.57.10:841][945]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI848DA82A4AA5DB14ADE64E83D6D78173.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.57.10:844][945]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.57.11:889][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.57.11:889][ 62]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:57:11)
+[2017.03.19-11.57.11:889][ 62]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.57.11:890][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000943s)
+[2017.03.19-11.57.11:890][ 62]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.57.11:891][ 62]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.03.19-11.57.11:891][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001879s)
+[2017.03.19-11.57.11:912][ 62]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.57.11:921][ 62]LogInit: FAudioDevice initialized.
+[2017.03.19-11.57.11:962][ 62]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.57.11:967][ 62]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.57.11
+[2017.03.19-11.57.11:967][ 62]LogWorld: Bringing up level for play took: 0.003594
+[2017.03.19-11.57.11:968][ 62]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.57.11:968][ 62]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.57.11:968][ 62]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.57.11:968][ 62]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.57.11:969][ 62]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.57.11:970][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.11:970][ 62]LogScriptCore:Warning: 
+[2017.03.19-11.57.11:984][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.11:984][ 62]LogScriptCore:Warning: 
+[2017.03.19-11.57.11:984][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.11:984][ 62]LogScriptCore:Warning: 
+[2017.03.19-11.57.11:984][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.11:984][ 62]LogScriptCore:Warning: 
+[2017.03.19-11.57.11:984][ 62]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.57.11:987][ 62]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.213
+[2017.03.19-11.57.25:656][520]BlueprintLog: New page: Compile MainUI
+[2017.03.19-11.57.26:282][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainUI" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset" SILENT=true
+[2017.03.19-11.57.26:433][566]LogSavePackage: Save=34.02ms
+[2017.03.19-11.57.26:433][566]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainUI7219FD1D42756D141E5ECE9FC344843C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset'
+[2017.03.19-11.57.26:436][566]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/MainUI.uasset
+[2017.03.19-11.57.27:081][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-11.57.27:081][637]PIE: New page: PIE session: MainMapTest (19 Mar 2017 11:57:27)
+[2017.03.19-11.57.27:081][637]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-11.57.27:082][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000920s)
+[2017.03.19-11.57.27:082][637]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-11.57.27:083][637]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2017.03.19-11.57.27:083][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.002000s)
+[2017.03.19-11.57.27:104][637]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-11.57.27:111][637]LogInit: FAudioDevice initialized.
+[2017.03.19-11.57.27:155][637]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-11.57.27:159][637]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-11.57.27
+[2017.03.19-11.57.27:160][637]LogWorld: Bringing up level for play took: 0.003302
+[2017.03.19-11.57.27:161][637]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-11.57.27:161][637]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-11.57.27:161][637]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.57.27:161][637]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-11.57.27:161][637]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.57.27:163][637]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.27:163][637]LogScriptCore:Warning: 
+[2017.03.19-11.57.27:176][637]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.27:176][637]LogScriptCore:Warning: 
+[2017.03.19-11.57.27:176][637]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.27:176][637]LogScriptCore:Warning: 
+[2017.03.19-11.57.27:176][637]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-11.57.27:176][637]LogScriptCore:Warning: 
+[2017.03.19-11.57.27:176][637]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-11.57.27:178][637]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.979
+[2017.03.19-11.57.44:389][275]LogBlueprintUserMessages: [MainUI_C_4] Friends
+[2017.03.19-11.57.44:886][323]LogBlueprintUserMessages: [MainUI_C_4] Friends
+[2017.03.19-12.03.52:089][284]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.03.52:709][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.03.52:725][334]LogSavePackage: Save=15.12ms
+[2017.03.19-12.03.52:726][334]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUser40122CEF499E07A28D8E7598CE3ABB54.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.03.52:728][334]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.12.28:598][113]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.12.29:382][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.12.29:516][176]LogSavePackage: Save=10.37ms
+[2017.03.19-12.12.29:516][176]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUserAC6BFEAB452B29096FBF03A6CD50CF3A.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.12.29:519][176]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.13.43:161][787]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.19-12.13.44:193][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.13.44:400][853]LogSavePackage: Save=67.40ms
+[2017.03.19-12.13.44:400][853]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTestA7FF928B4E1270E1BE76E993558E808E.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.13.44:403][853]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.13.44:448][853]LogFileHelpers: Saving map 'MainMapTest' took 0.335
+[2017.03.19-12.13.44:451][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuBP" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset" SILENT=true
+[2017.03.19-12.13.44:595][853]LogSavePackage: Save=20.69ms
+[2017.03.19-12.13.44:595][853]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMenuBPD8C038ED4DE2C7F19EF3CEA996451C37.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset'
+[2017.03.19-12.13.44:597][853]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset
+[2017.03.19-12.13.55:724][155]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.19-12.13.57:511][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.13.57:678][328]LogSavePackage: Save=18.75ms
+[2017.03.19-12.13.57:678][328]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest1EB1D73B453DB2CBFD91B69DA6E757B4.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.13.57:681][328]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.13.57:728][328]LogFileHelpers: Saving map 'MainMapTest' took 0.298
+[2017.03.19-12.13.57:730][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuBP" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset" SILENT=true
+[2017.03.19-12.13.57:872][328]LogSavePackage: Save=20.09ms
+[2017.03.19-12.13.57:873][328]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMenuBP414CF1414C2789A370C5C090B8E69DC7.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset'
+[2017.03.19-12.13.57:875][328]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset
+[2017.03.19-12.13.58:717][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.13.58:717][412]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:13:58)
+[2017.03.19-12.13.58:717][412]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.13.58:718][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000830s)
+[2017.03.19-12.13.58:719][412]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.13.58:719][412]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2017.03.19-12.13.58:719][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001701s)
+[2017.03.19-12.13.58:741][412]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.13.58:749][412]LogInit: FAudioDevice initialized.
+[2017.03.19-12.13.58:780][412]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.13.58:784][412]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.13.58
+[2017.03.19-12.13.58:784][412]LogWorld: Bringing up level for play took: 0.002569
+[2017.03.19-12.13.58:785][412]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.13.58:786][412]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.13.58:786][412]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.13.58:786][412]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.13.58:787][412]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.13.58:787][412]LogScriptCore:Warning: 
+[2017.03.19-12.13.58:800][412]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.13.58:800][412]LogScriptCore:Warning: 
+[2017.03.19-12.13.58:800][412]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.13.58:800][412]LogScriptCore:Warning: 
+[2017.03.19-12.13.58:800][412]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.13.58:800][412]LogScriptCore:Warning: 
+[2017.03.19-12.13.58:800][412]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.13.58:800][412]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.601
+[2017.03.19-12.14.06:903][347]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.19-12.14.07:527][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.14.07:685][381]LogSavePackage: Save=17.13ms
+[2017.03.19-12.14.07:685][381]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest2A9979CA44D48DD3D6DF618572A99019.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.14.07:687][381]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.14.07:734][381]LogFileHelpers: Saving map 'MainMapTest' took 0.289
+[2017.03.19-12.14.07:738][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuBP" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset" SILENT=true
+[2017.03.19-12.14.07:878][381]LogSavePackage: Save=20.19ms
+[2017.03.19-12.14.07:878][381]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMenuBP57AC5A844D4F433E57324E8C2975639D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset'
+[2017.03.19-12.14.07:881][381]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset
+[2017.03.19-12.14.09:059][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.14.09:059][504]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:14:09)
+[2017.03.19-12.14.09:059][504]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.14.09:060][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000864s)
+[2017.03.19-12.14.09:060][504]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.14.09:060][504]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.03.19-12.14.09:061][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001865s)
+[2017.03.19-12.14.09:084][504]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.14.09:091][504]LogInit: FAudioDevice initialized.
+[2017.03.19-12.14.09:121][504]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.14.09:124][504]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.14.09
+[2017.03.19-12.14.09:126][504]LogWorld: Bringing up level for play took: 0.003750
+[2017.03.19-12.14.09:127][504]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.14.09:127][504]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.14.09:127][504]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.14.09:127][504]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.14.09:129][504]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.14.09:129][504]LogScriptCore:Warning: 
+[2017.03.19-12.14.09:129][504]LogBlueprintUserMessages: [MainMenuBP_82] Hello
+[2017.03.19-12.14.09:139][504]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.14.09:139][504]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.94
+[2017.03.19-12.16.41:558][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.16.41:558][565]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:16:41)
+[2017.03.19-12.16.41:558][565]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.16.41:559][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000947s)
+[2017.03.19-12.16.41:560][565]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.16.41:560][565]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2017.03.19-12.16.41:560][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.002017s)
+[2017.03.19-12.16.41:585][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.16.41:593][565]LogInit: FAudioDevice initialized.
+[2017.03.19-12.16.41:622][565]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.16.41:625][565]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.16.41
+[2017.03.19-12.16.41:626][565]LogWorld: Bringing up level for play took: 0.002665
+[2017.03.19-12.16.41:627][565]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.16.41:627][565]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.16.41:627][565]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.16.41:627][565]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.16.41:629][565]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.16.41:629][565]LogScriptCore:Warning: 
+[2017.03.19-12.16.41:629][565]LogBlueprintUserMessages: [MainMenuBP_82] Hello
+[2017.03.19-12.16.41:639][565]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.16.41:639][565]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.561
+[2017.03.19-12.19.14:049][779]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.19-12.19.14:792][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.19.14:957][829]LogSavePackage: Save=17.14ms
+[2017.03.19-12.19.14:957][829]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest8F3F71F6454255F3CA4567B21FDCB689.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.19.14:959][829]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.19.15:004][829]LogFileHelpers: Saving map 'MainMapTest' took 0.297
+[2017.03.19-12.19.15:007][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/InventoryActor" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/InventoryActor.uasset" SILENT=true
+[2017.03.19-12.19.15:227][829]LogSavePackage: Save=72.69ms
+[2017.03.19-12.19.15:227][829]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/InventoryActorD8D5126B486A424C6B25AA87D78EB81C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/InventoryActor.uasset'
+[2017.03.19-12.19.15:230][829]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/InventoryActor.uasset
+[2017.03.19-12.19.15:234][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuBP" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset" SILENT=true
+[2017.03.19-12.19.15:379][829]LogSavePackage: Save=21.88ms
+[2017.03.19-12.19.15:379][829]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMenuBP2B931D924F56FC6770591CB0FC4AF2AF.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset'
+[2017.03.19-12.19.15:382][829]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset
+[2017.03.19-12.19.27:728][192]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.19-12.19.41:880][592]BlueprintLog: New page: Compile InventoryActor
+[2017.03.19-12.19.41:958][592]LogBlueprint:Error: [Compiler InventoryActor] Error This blueprint (self) is not a MainUI_C, therefore ' self ' must have a connection.
+[2017.03.19-12.19.41:958][592]LogBlueprint:Error: [Compiler InventoryActor] Error Variable node  K2Node_VariableGet_406  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.03.19-12.19.42:171][592]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a MainUI_C, therefore ' self ' must have a connection.
+[2017.03.19-12.19.42:171][592]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableGet_406  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.03.19-12.19.42:171][592]LogBlueprint:Warning: [Compiler InventoryActor] Warning [3437.15] Compile of InventoryActor failed. 2 Fatal Issue(s) 0 Warning(s) [in 291 ms] (/Game/Characters/InventoryActor.InventoryActor)
+[2017.03.19-12.20.10:098][813]BlueprintLog: New page: Compile InventoryActor
+[2017.03.19-12.20.10:184][813]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-12.20.10:184][813]Warning: Unknown property in SlimeCoreStruct: CoreValues_24_1BF0A4064FA1627B5095A1B7F9518AC0=(Stat_7_76CE95C0452BB06BEAE48F95DA0837DA=,Value_8_15A8429648AA9BD44D779193E3A5F9BF=),CoreLevel_13_48C38383439C291252BC83ADACB0E28C=0,CoreRarity_16_2EABFE41464FB4ADD25F5C84188D88B2=,CoreSlot_21_1D9795BF42C174C96D354E8E91CE1107=NewEnumerator0) 
+[2017.03.19-12.20.11:860][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.20.12:026][969]LogSavePackage: Save=16.76ms
+[2017.03.19-12.20.12:026][969]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest65A21932401B38D3F5AF67A304560C77.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.20.12:029][969]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.20.12:081][969]LogFileHelpers: Saving map 'MainMapTest' took 0.307
+[2017.03.19-12.20.12:084][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/InventoryActor" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/InventoryActor.uasset" SILENT=true
+[2017.03.19-12.20.12:285][969]LogSavePackage: Save=76.15ms
+[2017.03.19-12.20.12:286][969]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/InventoryActorC1BB5EB448C039928B916BBFFFAF5F83.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/InventoryActor.uasset'
+[2017.03.19-12.20.12:289][969]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/Characters/InventoryActor.uasset
+[2017.03.19-12.20.13:608][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.20.13:608][109]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:20:13)
+[2017.03.19-12.20.13:609][109]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.20.13:610][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001162s)
+[2017.03.19-12.20.13:610][109]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.20.13:611][109]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2017.03.19-12.20.13:611][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.002500s)
+[2017.03.19-12.20.13:635][109]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.20.13:644][109]LogInit: FAudioDevice initialized.
+[2017.03.19-12.20.13:673][109]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.20.13:676][109]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.20.13
+[2017.03.19-12.20.13:676][109]LogWorld: Bringing up level for play took: 0.002492
+[2017.03.19-12.20.13:677][109]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.20.13:677][109]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.20.13:677][109]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.20.13:677][109]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.20.13:679][109]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.20.13:679][109]LogScriptCore:Warning: 
+[2017.03.19-12.20.13:679][109]LogBlueprintUserMessages: [MainMenuBP_82] Hello
+[2017.03.19-12.20.13:679][109]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllWidgetsOfClass_FoundWidgets of length 0!
+[2017.03.19-12.20.13:679][109]LogScriptCore:Warning: 
+[2017.03.19-12.20.13:679][109]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.20.13:679][109]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.52
+[2017.03.19-12.20.34:017][444]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.19-12.20.40:376][200]BlueprintLog: New page: Compile MainMenuBP
+[2017.03.19-12.20.41:086][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.20.41:245][247]LogSavePackage: Save=16.66ms
+[2017.03.19-12.20.41:245][247]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest4AC6311740A9AB05E77BF48FCDEAD246.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.20.41:248][247]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.20.41:295][247]LogFileHelpers: Saving map 'MainMapTest' took 0.289
+[2017.03.19-12.20.41:297][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuBP" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset" SILENT=true
+[2017.03.19-12.20.41:439][247]LogSavePackage: Save=22.38ms
+[2017.03.19-12.20.41:439][247]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMenuBP2A474E454C395A4A499F1EA55A25E526.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset'
+[2017.03.19-12.20.41:442][247]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMenu/MainMenuBP.uasset
+[2017.03.19-12.20.43:237][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.20.43:237][446]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:20:43)
+[2017.03.19-12.20.43:237][446]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.20.43:238][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000846s)
+[2017.03.19-12.20.43:238][446]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.20.43:239][446]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2017.03.19-12.20.43:239][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001876s)
+[2017.03.19-12.20.43:263][446]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.20.43:271][446]LogInit: FAudioDevice initialized.
+[2017.03.19-12.20.43:305][446]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.20.43:308][446]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.20.43
+[2017.03.19-12.20.43:309][446]LogWorld: Bringing up level for play took: 0.002740
+[2017.03.19-12.20.43:310][446]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.20.43:310][446]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.20.43:310][446]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.20.43:310][446]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.20.43:311][446]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.20.43:311][446]LogScriptCore:Warning: 
+[2017.03.19-12.20.43:312][446]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllWidgetsOfClass_FoundWidgets of length 0!
+[2017.03.19-12.20.43:312][446]LogScriptCore:Warning: 
+[2017.03.19-12.20.43:312][446]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.20.43:312][446]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.887
+[2017.03.19-12.20.48:349][942]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.224 s
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: === Handled ensure: ===
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: 
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: Ensure condition failed: TabBeingDraggedPtr.IsValid() [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\SDockingTabWell.cpp] [Line: 375]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: 
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: Stack: 
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:183]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:297]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:432]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Slate.dll!SDockingTabWell::OnDrop() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\docking\sdockingtabwell.cpp:375]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Slate.dll!<lambda_d21373bc5354aa11b893894bcf47e418>::operator()() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4933]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_d21373bc5354aa11b893894bcf47e418> >() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:215]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4924]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5348]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5328]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:1584]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:1930]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:747]
+[2017.03.19-12.20.48:349][942]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsapplication.cpp:669]
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: USER32.dll
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: USER32.dll
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformMisc::PumpMessages() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsplatformmisc.cpp:905]
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:2788]
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\launch.cpp:156]
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:126]
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:202]
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:264]
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: KERNEL32.DLL
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: ntdll.dll
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: ntdll.dll
+[2017.03.19-12.20.48:350][942]LogOutputDevice:Error: 
+[2017.03.19-12.20.48:350][942]LogStats:                SubmitErrorReport -  0.000 s
+[2017.03.19-12.20.48:643][942]LogStats:                    SendNewReport -  0.294 s
+[2017.03.19-12.20.48:644][942]LogStats:             FDebug::EnsureFailed -  0.519 s
+[2017.03.19-12.22.00:621][350]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.22.01:305][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.22.01:553][400]LogSavePackage: Save=19.09ms
+[2017.03.19-12.22.01:553][400]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest6604C122493AAA31C633F2A59424C8D9.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.22.01:556][400]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.22.01:605][400]LogFileHelpers: Saving map 'MainMapTest' took 0.384
+[2017.03.19-12.22.01:608][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.22.01:740][400]LogSavePackage: Save=11.16ms
+[2017.03.19-12.22.01:740][400]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUser3A8EED9C42C3F4423AF359BB4510BA4A.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.22.01:744][400]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.25.14:319][ 14]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.25.14:882][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.25.15:044][ 51]LogSavePackage: Save=19.16ms
+[2017.03.19-12.25.15:045][ 51]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTestEBFD9A274C027ACB0853D8BF440FF95B.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.25.15:047][ 51]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.25.15:093][ 51]LogFileHelpers: Saving map 'MainMapTest' took 0.292
+[2017.03.19-12.25.15:096][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.25.15:224][ 51]LogSavePackage: Save=12.08ms
+[2017.03.19-12.25.15:224][ 51]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUserA24F5B3A43173FD4DC134E897ACEC8A6.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.25.15:227][ 51]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.26.58:485][801]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.27.06:865][764]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.19-12.27.51:169][966]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.27.52:185][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.27.52:352][ 51]LogSavePackage: Save=18.19ms
+[2017.03.19-12.27.52:352][ 51]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest54D53C394FEA48A049AF7C8880575C3B.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.27.52:355][ 51]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.27.52:403][ 51]LogFileHelpers: Saving map 'MainMapTest' took 0.305
+[2017.03.19-12.27.52:406][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.27.52:556][ 51]LogSavePackage: Save=16.05ms
+[2017.03.19-12.27.52:556][ 51]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUserF1905E964DB7D2C161CE78B099BBDC55.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.27.52:558][ 51]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.28.12:235][381]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.28.12:868][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.28.13:034][426]LogSavePackage: Save=19.35ms
+[2017.03.19-12.28.13:034][426]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest9FAD48424CBF1CB6A34419A212AEF647.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.28.13:037][426]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.28.13:084][426]LogFileHelpers: Saving map 'MainMapTest' took 0.302
+[2017.03.19-12.28.13:086][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.28.13:226][426]LogSavePackage: Save=15.70ms
+[2017.03.19-12.28.13:226][426]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUser6037CDBF4BD648C605E369965AC894BA.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.28.13:229][426]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.28.13:804][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.28.13:804][489]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:28:13)
+[2017.03.19-12.28.13:804][489]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.28.13:805][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001482s)
+[2017.03.19-12.28.13:806][489]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.28.13:806][489]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2017.03.19-12.28.13:807][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.003211s)
+[2017.03.19-12.28.13:832][489]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.28.13:841][489]LogInit: FAudioDevice initialized.
+[2017.03.19-12.28.13:877][489]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.28.13:881][489]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.28.13
+[2017.03.19-12.28.13:882][489]LogWorld: Bringing up level for play took: 0.003451
+[2017.03.19-12.28.13:882][489]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-12.28.13:883][489]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.28.13:883][489]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.28.13:883][489]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.28.13:883][489]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.28.13:884][489]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.28.13:884][489]LogScriptCore:Warning: 
+[2017.03.19-12.28.13:885][489]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllWidgetsOfClass_FoundWidgets of length 0!
+[2017.03.19-12.28.13:885][489]LogScriptCore:Warning: 
+[2017.03.19-12.28.13:885][489]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.28.13:887][489]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.312
+[2017.03.19-12.28.15:569][680]LogBlueprintUserMessages: [CreateUser_C_2] Please Add a Name longer than 4 Characters
+[2017.03.19-12.28.16:188][754]LogBlueprintUserMessages: [CreateUser_C_2] Please Add a Name longer than 4 Characters
+[2017.03.19-12.28.19:896][198]LogBlueprintUserMessages: [CreateUser_C_2] Please Add a Name longer than 4 Characters
+[2017.03.19-12.28.21:036][334]LogBlueprintUserMessages: [CreateUser_C_2] Please Add a Name longer than 4 Characters
+[2017.03.19-12.28.33:339][785]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.28.34:034][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.28.34:200][835]LogSavePackage: Save=17.41ms
+[2017.03.19-12.28.34:200][835]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest8EA0483F45C6D5CDB0CF89B163811D54.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.28.34:203][835]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.28.34:249][835]LogFileHelpers: Saving map 'MainMapTest' took 0.301
+[2017.03.19-12.28.34:252][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.28.34:389][835]LogSavePackage: Save=16.11ms
+[2017.03.19-12.28.34:389][835]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUserED3C49504DD9C7F075923EA47D66A74D.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.28.34:392][835]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.29.40:127][563]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.29.41:263][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.29.41:424][668]LogSavePackage: Save=17.80ms
+[2017.03.19-12.29.41:424][668]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest2301133A4A4BCD25DEDA349DCA7D80EF.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.29.41:427][668]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.29.41:473][668]LogFileHelpers: Saving map 'MainMapTest' took 0.294
+[2017.03.19-12.29.41:476][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.29.41:617][668]LogSavePackage: Save=17.29ms
+[2017.03.19-12.29.41:617][668]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUserF051EC144604EC267C6E3385341757AF.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.29.41:620][668]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.29.42:109][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.29.42:109][721]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:29:42)
+[2017.03.19-12.29.42:109][721]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.29.42:110][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000816s)
+[2017.03.19-12.29.42:111][721]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.29.42:111][721]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2017.03.19-12.29.42:111][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001983s)
+[2017.03.19-12.29.42:136][721]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.29.42:143][721]LogInit: FAudioDevice initialized.
+[2017.03.19-12.29.42:183][721]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.29.42:187][721]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.29.42
+[2017.03.19-12.29.42:188][721]LogWorld: Bringing up level for play took: 0.002929
+[2017.03.19-12.29.42:188][721]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-12.29.42:189][721]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.29.42:189][721]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.29.42:189][721]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.29.42:189][721]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.29.42:190][721]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.29.42:190][721]LogScriptCore:Warning: 
+[2017.03.19-12.29.42:191][721]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllWidgetsOfClass_FoundWidgets of length 0!
+[2017.03.19-12.29.42:191][721]LogScriptCore:Warning: 
+[2017.03.19-12.29.42:191][721]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.29.42:194][721]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.005
+[2017.03.19-12.30.52:709][624]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.30.53:480][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.30.53:647][674]LogSavePackage: Save=17.94ms
+[2017.03.19-12.30.53:647][674]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest92557F2947F41145034E83ADBB95228C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.30.53:649][674]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.30.53:695][674]LogFileHelpers: Saving map 'MainMapTest' took 0.300
+[2017.03.19-12.30.53:699][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.30.53:837][674]LogSavePackage: Save=17.16ms
+[2017.03.19-12.30.53:837][674]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUserC0C478E2440795A4A120599182C53264.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.30.53:840][674]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.30.54:575][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.30.54:575][752]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:30:54)
+[2017.03.19-12.30.54:575][752]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.30.54:576][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000933s)
+[2017.03.19-12.30.54:577][752]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.30.54:577][752]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2017.03.19-12.30.54:577][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.001799s)
+[2017.03.19-12.30.54:600][752]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.30.54:607][752]LogInit: FAudioDevice initialized.
+[2017.03.19-12.30.54:645][752]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.30.54:649][752]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.30.54
+[2017.03.19-12.30.54:650][752]LogWorld: Bringing up level for play took: 0.003175
+[2017.03.19-12.30.54:650][752]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-12.30.54:650][752]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.30.54:650][752]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.30.54:650][752]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.30.54:650][752]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.30.54:652][752]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.30.54:652][752]LogScriptCore:Warning: 
+[2017.03.19-12.30.54:653][752]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllWidgetsOfClass_FoundWidgets of length 0!
+[2017.03.19-12.30.54:653][752]LogScriptCore:Warning: 
+[2017.03.19-12.30.54:653][752]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.30.54:656][752]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest 0.457
+[2017.03.19-12.31.34:011][267]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.31.34:693][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.31.34:853][309]LogSavePackage: Save=17.39ms
+[2017.03.19-12.31.34:853][309]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTestA9D73C0841E6692D4502B98AD04EED0C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.31.34:856][309]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.31.34:903][309]LogFileHelpers: Saving map 'MainMapTest' took 0.291
+[2017.03.19-12.31.34:906][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.31.35:041][309]LogSavePackage: Save=17.09ms
+[2017.03.19-12.31.35:041][309]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUser9BAC1C0F461FB7F36573B3B8C50A0A28.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.31.35:044][309]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.31.35:551][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.19-12.31.35:551][364]PIE: New page: PIE session: MainMapTest (19 Mar 2017 12:31:35)
+[2017.03.19-12.31.35:551][364]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMapTest
+[2017.03.19-12.31.35:552][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000877s)
+[2017.03.19-12.31.35:552][364]LogAIModule: Creating AISystem for world MainMapTest
+[2017.03.19-12.31.35:553][364]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2017.03.19-12.31.35:553][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMapTest.MainMapTest to /Game/UEDPIE_0_MainMapTest.MainMapTest (0.002093s)
+[2017.03.19-12.31.35:578][364]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2017.03.19-12.31.35:585][364]LogInit: FAudioDevice initialized.
+[2017.03.19-12.31.35:621][364]LogWorld: Game class is 'RPG_GameMode_C'
+[2017.03.19-12.31.35:626][364]LogWorld: Bringing World /Game/UEDPIE_0_MainMapTest.MainMapTest up for play (max tick rate 0) at 2017.03.19-12.31.35
+[2017.03.19-12.31.35:627][364]LogWorld: Bringing up level for play took: 0.003957
+[2017.03.19-12.31.35:627][364]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.03.19-12.31.35:628][364]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.03.19-12.31.35:628][364]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.31.35:628][364]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.19-12.31.35:628][364]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.31.35:629][364]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors of length 0!
+[2017.03.19-12.31.35:629][364]LogScriptCore:Warning: 
+[2017.03.19-12.31.35:630][364]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllWidgetsOfClass_FoundWidgets of length 0!
+[2017.03.19-12.31.35:630][364]LogScriptCore:Warning: 
+[2017.03.19-12.31.35:630][364]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.19-12.31.35:633][364]PIE: Info Play in editor start time for /Game/UEDPIE_0_MainMapTest -0.566
+[2017.03.19-12.32.21:503][515]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.32.22:280][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.32.22:448][565]LogSavePackage: Save=18.56ms
+[2017.03.19-12.32.22:448][565]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest65DF449A41BA016441CFD2B2C89277FF.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.32.22:451][565]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.32.22:498][565]LogFileHelpers: Saving map 'MainMapTest' took 0.305
+[2017.03.19-12.32.22:501][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.32.22:646][565]LogSavePackage: Save=16.15ms
+[2017.03.19-12.32.22:646][565]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUser51458CB54EC7D383003C35BF12A4571E.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.32.22:649][565]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.35.22:902][ 13]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.35.24:156][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.35.24:316][120]LogSavePackage: Save=16.76ms
+[2017.03.19-12.35.24:316][120]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest6E0E0FE746B58EB75EC7DE971D4BD9FE.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.35.24:319][120]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.35.24:363][120]LogFileHelpers: Saving map 'MainMapTest' took 0.289
+[2017.03.19-12.35.24:366][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.35.24:509][120]LogSavePackage: Save=17.15ms
+[2017.03.19-12.35.24:509][120]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUser2D0C49F943F5ACEAAEB468B84EF3FA0B.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.35.24:513][120]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.36.07:706][135]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.36.08:556][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.36.08:715][203]LogSavePackage: Save=17.19ms
+[2017.03.19-12.36.08:715][203]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest4C0BC4C1483D451466C480BDC83CC0B3.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.36.08:718][203]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.36.08:763][203]LogFileHelpers: Saving map 'MainMapTest' took 0.289
+[2017.03.19-12.40.36:468][588]BlueprintLog: New page: Compile CreateUser
+[2017.03.19-12.40.37:134][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMapTest" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.19-12.40.37:291][636]LogSavePackage: Save=17.16ms
+[2017.03.19-12.40.37:291][636]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/MainMapTest235BC71748951A8C6CDFC3B17779666C.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap'
+[2017.03.19-12.40.37:294][636]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/MainMapTest.umap
+[2017.03.19-12.40.37:337][636]LogFileHelpers: Saving map 'MainMapTest' took 0.286
+[2017.03.19-12.40.37:340][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CreateUser" FILE="../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset" SILENT=true
+[2017.03.19-12.40.37:484][636]LogSavePackage: Save=17.89ms
+[2017.03.19-12.40.37:484][636]LogSavePackage: Moving '../../../../../../UDK Projects/SinglePlayerRPG/Saved/CreateUserF7AF9FAD4992FF173BD3249EA0A81B86.tmp' to '../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset'
+[2017.03.19-12.40.37:487][636]LogSavePackage:Display: Finished SavePackage ../../../../../../UDK Projects/SinglePlayerRPG/Content/UI/CreateUser.uasset
+[2017.03.19-12.40.39:229][799]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.19-12.40.39:371][799]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.19-12.40.39:437][799]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.19-12.40.39:779][800]Cmd: QUIT_EDITOR
+[2017.03.19-12.40.40:364][800]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.19-12.40.40:393][800]LogExit: Preparing to exit.
+[2017.03.19-12.40.40:785][800]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Content/' was aborted.
+[2017.03.19-12.40.40:837][800]LogExit: Editor shut down
+[2017.03.19-12.40.40:838][800]LogExit: Transaction tracking system shut down
+[2017.03.19-12.40.41:501][800]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.19-12.40.41:501][800]LogExit: Object subsystem successfully closed.
+[2017.03.19-12.40.41:618][800]LogD3D11RHI: Shutdown
+[2017.03.19-12.40.41:618][800]LogD3D11RHI: CleanupD3DDevice
+[2017.03.19-12.40.41:767][800]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.19-12.40.42:343][800]LogModuleManager: Shutting down and abandoning module SequencerWidgets (237)
+[2017.03.19-12.40.42:343][800]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2017.03.19-12.40.42:343][800]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2017.03.19-12.40.42:371][800]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (234)
+[2017.03.19-12.40.42:371][800]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2017.03.19-12.40.42:384][800]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2017.03.19-12.40.42:384][800]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2017.03.19-12.40.42:384][800]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2017.03.19-12.40.42:384][800]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2017.03.19-12.40.42:384][800]LogDirectoryWatcher: A directory notification for 'E:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.03.19-12.40.42:384][800]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2017.03.19-12.40.42:384][800]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2017.03.19-12.40.42:384][800]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2017.03.19-12.40.42:385][800]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Content/Collections/' was aborted.
+[2017.03.19-12.40.42:385][800]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Content/Developers/Rich/Collections/' was aborted.
+[2017.03.19-12.40.42:385][800]LogDirectoryWatcher: A directory notification for 'E:/UDK Projects/SinglePlayerRPG/Saved/Collections/' was aborted.
+[2017.03.19-12.40.42:385][800]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2017.03.19-12.40.42:402][800]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.03.19-12.40.42:402][800]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.03.19-12.40.42:418][800]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.03.19-12.40.42:419][800]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.03.19-12.40.42:419][800]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.03.19-12.40.42:419][800]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.03.19-12.40.42:432][800]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.03.19-12.40.42:453][800]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.03.19-12.40.42:481][800]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.03.19-12.40.42:494][800]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.03.19-12.40.42:494][800]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.03.19-12.40.42:494][800]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.03.19-12.40.42:494][800]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.03.19-12.40.42:655][800]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.03.19-12.40.42:655][800]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.03.19-12.40.42:655][800]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.03.19-12.40.42:655][800]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.03.19-12.40.42:705][800]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.03.19-12.40.42:725][800]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.03.19-12.40.42:725][800]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.03.19-12.40.42:725][800]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.03.19-12.40.42:725][800]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.03.19-12.40.42:725][800]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.03.19-12.40.42:741][800]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.03.19-12.40.42:741][800]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.03.19-12.40.42:755][800]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.03.19-12.40.42:755][800]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.03.19-12.40.42:755][800]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.03.19-12.40.42:755][800]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.03.19-12.40.42:755][800]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.03.19-12.40.42:763][800]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.03.19-12.40.42:763][800]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.03.19-12.40.42:764][800]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.03.19-12.40.42:764][800]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.03.19-12.40.42:774][800]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.03.19-12.40.42:792][800]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.03.19-12.40.42:812][800]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.03.19-12.40.42:837][800]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.03.19-12.40.42:837][800]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.03.19-12.40.42:905][800]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.03.19-12.40.42:928][800]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.03.19-12.40.42:947][800]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.03.19-12.40.42:975][800]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.03.19-12.40.42:975][800]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.03.19-12.40.42:975][800]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.03.19-12.40.42:975][800]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.03.19-12.40.42:975][800]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.03.19-12.40.42:999][800]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.03.19-12.40.43:005][800]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.03.19-12.40.43:005][800]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.03.19-12.40.43:006][800]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.03.19-12.40.43:006][800]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.03.19-12.40.43:023][800]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.03.19-12.40.43:041][800]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.03.19-12.40.43:041][800]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.03.19-12.40.43:058][800]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.03.19-12.40.43:059][800]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.03.19-12.40.43:087][800]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.03.19-12.40.43:104][800]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.03.19-12.40.43:132][800]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.03.19-12.40.43:132][800]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.03.19-12.40.43:132][800]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.03.19-12.40.43:132][800]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.03.19-12.40.43:132][800]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.03.19-12.40.43:153][800]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.03.19-12.40.43:153][800]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.03.19-12.40.43:153][800]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.03.19-12.40.43:153][800]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.03.19-12.40.43:153][800]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.03.19-12.40.43:165][800]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.03.19-12.40.43:165][800]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.03.19-12.40.43:165][800]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.03.19-12.40.43:165][800]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.03.19-12.40.43:165][800]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.03.19-12.40.43:165][800]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.03.19-12.40.43:165][800]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.03.19-12.40.43:177][800]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.03.19-12.40.43:177][800]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.03.19-12.40.43:177][800]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.03.19-12.40.43:177][800]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.03.19-12.40.43:177][800]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.03.19-12.40.43:177][800]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.03.19-12.40.43:192][800]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.03.19-12.40.43:192][800]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.03.19-12.40.43:193][800]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.03.19-12.40.43:193][800]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.03.19-12.40.43:194][800]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.03.19-12.40.43:195][800]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.03.19-12.40.43:218][800]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.03.19-12.40.43:318][800]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.03.19-12.40.43:418][800]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.03.19-12.40.43:418][800]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.03.19-12.40.43:418][800]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.03.19-12.40.43:418][800]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.03.19-12.40.43:442][800]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.03.19-12.40.43:442][800]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.03.19-12.40.43:442][800]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.03.19-12.40.43:442][800]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.03.19-12.40.43:442][800]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.03.19-12.40.43:442][800]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.03.19-12.40.43:442][800]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.03.19-12.40.43:473][800]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.03.19-12.40.43:473][800]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.03.19-12.40.43:488][800]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.03.19-12.40.43:488][800]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.03.19-12.40.43:488][800]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.03.19-12.40.43:488][800]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.03.19-12.40.43:514][800]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.03.19-12.40.43:514][800]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.03.19-12.40.43:514][800]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.03.19-12.40.43:558][800]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.03.19-12.40.43:558][800]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.03.19-12.40.43:561][800]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.03.19-12.40.43:561][800]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.03.19-12.40.43:561][800]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.03.19-12.40.43:561][800]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.03.19-12.40.43:561][800]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.03.19-12.40.43:561][800]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.03.19-12.40.43:561][800]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.19-12.40.43:562][800]LogDirectoryWatcher: A directory notification for '../../../../../../UDK Projects/SinglePlayerRPG/Content/' was aborted.
+[2017.03.19-12.40.43:562][800]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.19-12.40.43:562][800]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.03.19-12.40.43:816][800]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.03.19-12.40.43:816][800]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.03.19-12.40.43:816][800]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.03.19-12.40.43:833][800]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.03.19-12.40.43:917][800]LogDerivedDataCache: Shutdown
+[2017.03.19-12.40.43:917][800]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.03.19-12.40.43:917][800]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.03.19-12.40.43:933][800]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.03.19-12.40.43:933][800]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.03.19-12.40.43:947][800]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.03.19-12.40.43:947][800]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.19-12.40.43:962][800]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.19-12.40.43:962][800]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.03.19-12.40.43:962][800]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBEA45FE-4A21-E40C-EB78-E4AAA678D02E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=f79ca4144587eda685298485d1afda96%7C957c3f1984d54dc587ccdd300919758c%7C479aff05-48e7-4d8a-9f7b-142620466bfa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.19-12.40.43:962][800]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBEA45FE-4A21-E40C-EB78-E4AAA678D02E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=f79ca4144587eda685298485d1afda96%7C957c3f1984d54dc587ccdd300919758c%7C479aff05-48e7-4d8a-9f7b-142620466bfa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.19-12.40.43:994][800]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.19-12.40.44:024][800]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.19-12.40.44:024][800]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.19-12.40.44:024][800]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.19-12.40.44:024][800]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.19-12.40.44:043][800]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.19-12.40.44:058][800]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.19-12.40.44:085][800]LogExit: Exiting.
+[2017.03.19-12.40.44:087][800]Log file closed, 03/19/17 12:40:44
